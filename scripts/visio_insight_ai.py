@@ -1,3 +1,4 @@
+from datetime import datetime
 import streamlit as st
 import os
 import sys
@@ -9,21 +10,39 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from scripts.make_prediction import process_and_visualize_data
 import glob
+import requests
 
 output_dir = 'output'
 
-token = os.environ.get("GITHUB_TOKEN")
+token = os.environ.get("API_KEY") #os.environ.get("GITHUB_TOKEN")
 if not token:
     raise ValueError("The environment variable 'GITHUB_TOKEN' is not set. Please set it before running the script.")
 
-endpoint = "https://models.inference.ai.azure.com"
-model_name = "gpt-4o-mini"
+# endpoint = "https://models.inference.ai.azure.com"
+endpoint = "https://api.ai.coxautodev.com/v2/"
+model_name = "gpt4o"
+# model_name = "gpt-4o-mini"
 # model_name = "Phi-4"
 
-client = OpenAI(
-    base_url=endpoint,
-    api_key=token,
-)
+headers = {
+    "x-api-key": f"{token}",
+    "accept": "application/json"
+}
+
+def call_openai_api(payload, model_name=model_name):
+    """
+    Function to call the OpenAI API using HTTP POST request.
+
+    Args:
+        payload (dict): The payload to send in the API request.
+
+    Returns:
+        dict: The response from the API.
+    """
+    response = requests.post(f"{endpoint}{model_name}", headers=headers, json=payload)
+    response.raise_for_status()  # Raise an exception for HTTP errors
+    print(response.json())
+    return response.json()
 
 def get_file_data_url(file: str, file_format: str) -> str:
     """
@@ -124,31 +143,21 @@ if st.button("Submit"):
                 
                 # Get the image data URL
                 image_data_url = get_file_data_url(temp_image_path, uploaded_file.type.split("/")[-1])
-                
+                model_name="gpt4-vision"
                 # Call the OpenAI API
-                response = client.chat.completions.create(
-                    messages=[
-                        {
-                            "role": "system", 
-                            "content": question_input
-                        },
-                        {
-                            "role": "user",
-                            "content": [
-                                {"type": "text", "text": question_input},
-                                {
-                                    "type": "image_url",
-                                    "image_url": {
-                                        "url": image_data_url,
-                                        "detail": "low"
-                                    },
-                                },
-                            ],
-                        },
-                    ],
-                    model=model_name,
-                    stream=True,
-                    stream_options={'include_usage': True}
+                response = call_openai_api(
+                    payload = {
+                        "prompt": question_input,
+                        "maxTokens": 1024,
+                        "temperature": 0.7,
+                        "uid": "radiants",
+                        "image": image_data_url,
+                        "topP": 1,
+                        "presencePenalty": 0,
+                        "frequencyPenalty": 0,
+                        "streaming": False
+                    },
+                    model_name=model_name
                 )
             elif uploaded_data_file is not None:
                 print("Uploaded data file")
@@ -161,7 +170,6 @@ if st.button("Submit"):
                 print(temp_file_path)
                 # Get the image data URL
                 # file_data_url = get_file_data_url(temp_file_path, uploaded_file.type.split("/")[-1])
-                process_and_visualize_data(temp_file_path, output_dir)
                 graph_type_map = {
                     "Pie (Default)": "pie",
                     "Linear": "linear",
@@ -170,16 +178,19 @@ if st.button("Submit"):
                     "Correlation": "correlation"
                 }
 
-                # Check if the question_input contains any graph type keywords
-                for keyword, graph_type in graph_type_map.items():
-                    if keyword.lower() in question_input.lower():
-                        graph_input_type = keyword
-                        break
-                else:
-                    # Default to the selected graph type from the dropdown if no keyword is found
-                    graph_input_type = graph_input_type or "Pie (Default)"
-                    
+                # # Check if the question_input contains any graph type keywords
+                # for keyword, graph_type in graph_type_map.items():
+                #     if keyword.lower() in question_input.lower():
+                #         graph_input_type = keyword
+                #         break
+                # else:
+                #     # Default to the selected graph type from the dropdown if no keyword is found
+                #     graph_input_type = graph_input_type or "Pie (Default)"
                 selected_graph_type = graph_type_map.get(graph_input_type, "pie")
+                timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+                
+                process_and_visualize_data(temp_file_path, output_dir, timestamp, selected_graph_type)
+                
                 # Find the first matching file for the selected graph type
                 matching_files = glob.glob(os.path.join(output_dir, f"{selected_graph_type}*.png"))
                 if matching_files:
@@ -189,62 +200,61 @@ if st.button("Submit"):
                 
                 # Get the image data URL
                 output_image_url = get_file_data_url(output_file, "png")
+                model_name="gpt4-vision"
                 
                 # Call the OpenAI API
-                response = client.chat.completions.create(
-                    messages=[
-                        {
-                            "role": "system",
-                            "content": question_input,
-                        },
-                        {
-                            "role": "user",
-                            "content": [
-                                {
-                                    "type": "text",
-                                    "text": question_input,
-                                },
-                                {
-                                    "type": "image_url",
-                                    "image_url": {
-                                        "url": output_image_url,
-                                        "detail": "low"
-                                    },
-                                },
-                            ],
-                        },
-                    ],
-                    model=model_name,
-                    stream=True,
-                    stream_options={'include_usage': True}
+                response = call_openai_api(
+                     payload = {
+                         "prompt": question_input,
+                        "maxTokens": 1024,
+                        "temperature": 0.7,
+                        "uid": "radiants",
+                        "image": output_image_url,
+                        "topP": 1,
+                        "presencePenalty": 0,
+                        "frequencyPenalty": 0,
+                        "streaming": False
+                    },
+                    model_name=model_name
                 )
             else:
                  # Call the OpenAI API
-                response = client.chat.completions.create(
-                    messages=[
-                        {
-                            "role": "system",
-                            "content": question_input,
-                        }
-                    ],
-                    model=model_name,
-                    stream=True,
-                    stream_options={'include_usage': True}
+                response = call_openai_api(
+                     payload = {
+                        "prompt": question_input,
+                        "maxTokens": 1024,
+                        "temperature": 0.7,
+                        "uid": "radiants",
+                        "topP": 0.95,
+                        "presencePenalty": 0,
+                        "frequencyPenalty": 0,
+                        "stop": [],
+                        "streaming": False
+                    }
+                    # messages=[
+                    #     {
+                    #         "role": "system",
+                    #         "content": question_input,
+                    #     }
+                    # ],
+                    # model=model_name,
+                    # stream=True,
+                    # stream_options={'include_usage': True}
                 )
                 # st.warning("Please upload an image before submitting.")
 
             explanation = ""
             usage = None
-            for update in response:
-                if hasattr(update, "choices") and update.choices:
-                    if hasattr(update.choices[0], "delta") and hasattr(update.choices[0].delta, "content"):
-                        explanation += update.choices[0].delta.content or ""
-                if hasattr(update, "usage"):
-                    usage = update.usage
+            if response:
+                # Extract explanation text from the response
+                explanation = response.get("text", "")
+                
+                # Extract usage details if available
+                usage = response.get("usage", None)
 
             if usage:
-                print("\n")
-                for k, v in usage.model_dump().items():
+                print("\nUsage Details:")
+                for k, v in usage.items():
                     print(f"{k} = {v}")
             # If an image was uploaded, display it
             if uploaded_file is not None:
