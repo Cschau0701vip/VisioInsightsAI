@@ -1,0 +1,6032 @@
+[
+    {
+        "year": 2023,
+        "mileage": 15000,
+        "condition": "Very Good",
+        "resale_value": 30000.00
+    },
+    {
+        "year": 2022,
+        "mileage": 25000,
+        "condition": "Very Good",
+        "resale_value": 28000.00
+    },
+    {
+        "year": 2021,
+        "mileage": 35000,
+        "condition": "Very Good",
+        "resale_value": 26000.00
+    },
+    {
+        "year": 2020,
+        "mileage": 45000,
+        "condition": "Very Good",
+        "resale_value": 24000.00
+    },
+    {
+        "year": 2019,
+        "mileage": 55000,
+        "condition": "Very Good",
+        "resale_value": 22000.00
+    },
+    {
+        "year": 2000,
+        "mileage": 191776,
+        "condition": "Poor",
+        "resale_value": 18712.599976723493
+    },
+    {
+        "year": 2020,
+        "mileage": 140073,
+        "condition": "Poor",
+        "resale_value": 24283.849625276023
+    },
+    {
+        "year": 2006,
+        "mileage": 164842,
+        "condition": "Fair",
+        "resale_value": 22180.81581736774
+    },
+    {
+        "year": 2019,
+        "mileage": 143104,
+        "condition": "Poor",
+        "resale_value": 21483.42587838588
+    },
+    {
+        "year": 2020,
+        "mileage": 134550,
+        "condition": "Poor",
+        "resale_value": 24608.040842290524
+    },
+    {
+        "year": 2001,
+        "mileage": 32897,
+        "condition": "Good",
+        "resale_value": 15078.071339175833
+    },
+    {
+        "year": 2019,
+        "mileage": 198086,
+        "condition": "Good",
+        "resale_value": 19034.327939987794
+    },
+    {
+        "year": 2018,
+        "mileage": 105721,
+        "condition": "Poor",
+        "resale_value": 18778.60061884598
+    },
+    {
+        "year": 2011,
+        "mileage": 186301,
+        "condition": "Poor",
+        "resale_value": 16104.900878663466
+    },
+    {
+        "year": 2014,
+        "mileage": 24617,
+        "condition": "Fair",
+        "resale_value": 27156.32718404904
+    },
+    {
+        "year": 2013,
+        "mileage": 31269,
+        "condition": "Good",
+        "resale_value": 28472.811919231117
+    },
+    {
+        "year": 2005,
+        "mileage": 143050,
+        "condition": "Good",
+        "resale_value": 20994.796104250203
+    },
+    {
+        "year": 2018,
+        "mileage": 73868,
+        "condition": "Poor",
+        "resale_value": 25268.026272486968
+    },
+    {
+        "year": 2021,
+        "mileage": 197015,
+        "condition": "Poor",
+        "resale_value": 21711.004220412888
+    },
+    {
+        "year": 2004,
+        "mileage": 156592,
+        "condition": "Poor",
+        "resale_value": 20353.725041365804
+    },
+    {
+        "year": 2019,
+        "mileage": 12782,
+        "condition": "Good",
+        "resale_value": 20591.43312109719
+    },
+    {
+        "year": 2014,
+        "mileage": 128243,
+        "condition": "Good",
+        "resale_value": 21062.94979194355
+    },
+    {
+        "year": 2021,
+        "mileage": 141901,
+        "condition": "Poor",
+        "resale_value": 9388.171684670091
+    },
+    {
+        "year": 2013,
+        "mileage": 179661,
+        "condition": "Excellent",
+        "resale_value": 25155.294186507275
+    },
+    {
+        "year": 2011,
+        "mileage": 112781,
+        "condition": "Poor",
+        "resale_value": 26795.670651655488
+    },
+    {
+        "year": 2011,
+        "mileage": 182783,
+        "condition": "Poor",
+        "resale_value": 17423.34229684609
+    },
+    {
+        "year": 2016,
+        "mileage": 29411,
+        "condition": "Poor",
+        "resale_value": 20266.458293850752
+    },
+    {
+        "year": 2009,
+        "mileage": 60343,
+        "condition": "Excellent",
+        "resale_value": 16850.44455309305
+    },
+    {
+        "year": 2020,
+        "mileage": 59438,
+        "condition": "Good",
+        "resale_value": 17102.157826168717
+    },
+    {
+        "year": 2002,
+        "mileage": 101265,
+        "condition": "Fair",
+        "resale_value": 17042.37446309462
+    },
+    {
+        "year": 2000,
+        "mileage": 73540,
+        "condition": "Fair",
+        "resale_value": 11153.503087296245
+    },
+    {
+        "year": 2002,
+        "mileage": 92189,
+        "condition": "Poor",
+        "resale_value": 11341.009089781168
+    },
+    {
+        "year": 2007,
+        "mileage": 15232,
+        "condition": "Fair",
+        "resale_value": 25626.56899894637
+    },
+    {
+        "year": 2013,
+        "mileage": 76677,
+        "condition": "Poor",
+        "resale_value": 25660.985381253187
+    },
+    {
+        "year": 2002,
+        "mileage": 121301,
+        "condition": "Good",
+        "resale_value": 22705.04543781855
+    },
+    {
+        "year": 2021,
+        "mileage": 89582,
+        "condition": "Good",
+        "resale_value": 23019.79275235513
+    },
+    {
+        "year": 2011,
+        "mileage": 180742,
+        "condition": "Fair",
+        "resale_value": 17615.672640553796
+    },
+    {
+        "year": 2004,
+        "mileage": 167994,
+        "condition": "Good",
+        "resale_value": 29176.045813615605
+    },
+    {
+        "year": 2018,
+        "mileage": 50536,
+        "condition": "Fair",
+        "resale_value": 26934.14122947486
+    },
+    {
+        "year": 2020,
+        "mileage": 32201,
+        "condition": "Good",
+        "resale_value": 15822.731470677027
+    },
+    {
+        "year": 2012,
+        "mileage": 188186,
+        "condition": "Poor",
+        "resale_value": 15652.063672188422
+    },
+    {
+        "year": 2008,
+        "mileage": 20311,
+        "condition": "Excellent",
+        "resale_value": 23126.126843837657
+    },
+    {
+        "year": 2011,
+        "mileage": 31641,
+        "condition": "Good",
+        "resale_value": 31224.24567888849
+    },
+    {
+        "year": 2007,
+        "mileage": 35904,
+        "condition": "Excellent",
+        "resale_value": 16272.292190824239
+    },
+    {
+        "year": 2014,
+        "mileage": 183551,
+        "condition": "Fair",
+        "resale_value": 19600.51293159017
+    },
+    {
+        "year": 2016,
+        "mileage": 64280,
+        "condition": "Fair",
+        "resale_value": 17662.925782873626
+    },
+    {
+        "year": 2007,
+        "mileage": 180582,
+        "condition": "Good",
+        "resale_value": 21030.721555626416
+    },
+    {
+        "year": 2014,
+        "mileage": 160390,
+        "condition": "Excellent",
+        "resale_value": 23305.741309626796
+    },
+    {
+        "year": 2006,
+        "mileage": 21421,
+        "condition": "Fair",
+        "resale_value": 12582.350981073356
+    },
+    {
+        "year": 2013,
+        "mileage": 85042,
+        "condition": "Excellent",
+        "resale_value": 26305.969896285176
+    },
+    {
+        "year": 2001,
+        "mileage": 133150,
+        "condition": "Excellent",
+        "resale_value": 24187.06747400847
+    },
+    {
+        "year": 2005,
+        "mileage": 14504,
+        "condition": "Good",
+        "resale_value": 18000.146163706562
+    },
+    {
+        "year": 2005,
+        "mileage": 199349,
+        "condition": "Good",
+        "resale_value": 22663.910888575152
+    },
+    {
+        "year": 2013,
+        "mileage": 50418,
+        "condition": "Fair",
+        "resale_value": 16900.901423284828
+    },
+    {
+        "year": 2014,
+        "mileage": 33488,
+        "condition": "Fair",
+        "resale_value": 19776.89976293599
+    },
+    {
+        "year": 2006,
+        "mileage": 199175,
+        "condition": "Excellent",
+        "resale_value": 19598.68210106846
+    },
+    {
+        "year": 2016,
+        "mileage": 148934,
+        "condition": "Excellent",
+        "resale_value": 10330.456217121135
+    },
+    {
+        "year": 2011,
+        "mileage": 30925,
+        "condition": "Good",
+        "resale_value": 24854.562211961354
+    },
+    {
+        "year": 2011,
+        "mileage": 12043,
+        "condition": "Excellent",
+        "resale_value": 11809.248120042335
+    },
+    {
+        "year": 2009,
+        "mileage": 156404,
+        "condition": "Poor",
+        "resale_value": 22642.079930194584
+    },
+    {
+        "year": 2012,
+        "mileage": 72508,
+        "condition": "Excellent",
+        "resale_value": 21115.252368880923
+    },
+    {
+        "year": 2010,
+        "mileage": 169172,
+        "condition": "Excellent",
+        "resale_value": 11873.412029902542
+    },
+    {
+        "year": 2005,
+        "mileage": 148285,
+        "condition": "Fair",
+        "resale_value": 16535.26522228923
+    },
+    {
+        "year": 2005,
+        "mileage": 128457,
+        "condition": "Fair",
+        "resale_value": 14785.606528408938
+    },
+    {
+        "year": 2001,
+        "mileage": 29817,
+        "condition": "Excellent",
+        "resale_value": 19623.21744012064
+    },
+    {
+        "year": 2002,
+        "mileage": 192826,
+        "condition": "Good",
+        "resale_value": 20631.796744047748
+    },
+    {
+        "year": 2000,
+        "mileage": 105375,
+        "condition": "Good",
+        "resale_value": 21076.06621204853
+    },
+    {
+        "year": 2005,
+        "mileage": 156101,
+        "condition": "Poor",
+        "resale_value": 29375.434042562913
+    },
+    {
+        "year": 2002,
+        "mileage": 142354,
+        "condition": "Poor",
+        "resale_value": 10665.594632813687
+    },
+    {
+        "year": 2016,
+        "mileage": 144352,
+        "condition": "Good",
+        "resale_value": 21431.21389087027
+    },
+    {
+        "year": 2017,
+        "mileage": 79015,
+        "condition": "Poor",
+        "resale_value": 14875.022880648503
+    },
+    {
+        "year": 2019,
+        "mileage": 189947,
+        "condition": "Fair",
+        "resale_value": 18864.1441576233
+    },
+    {
+        "year": 2012,
+        "mileage": 78893,
+        "condition": "Poor",
+        "resale_value": 15929.719726805066
+    },
+    {
+        "year": 2011,
+        "mileage": 105057,
+        "condition": "Excellent",
+        "resale_value": 18843.058022719753
+    },
+    {
+        "year": 2020,
+        "mileage": 24273,
+        "condition": "Fair",
+        "resale_value": 27466.22146912472
+    },
+    {
+        "year": 2009,
+        "mileage": 37550,
+        "condition": "Fair",
+        "resale_value": 21606.160395178
+    },
+    {
+        "year": 2021,
+        "mileage": 20193,
+        "condition": "Excellent",
+        "resale_value": 16957.55064400438
+    },
+    {
+        "year": 2014,
+        "mileage": 166004,
+        "condition": "Good",
+        "resale_value": 27619.88762129764
+    },
+    {
+        "year": 2008,
+        "mileage": 14262,
+        "condition": "Poor",
+        "resale_value": 25113.08813905865
+    },
+    {
+        "year": 2002,
+        "mileage": 59639,
+        "condition": "Good",
+        "resale_value": 23481.51635493332
+    },
+    {
+        "year": 2002,
+        "mileage": 29273,
+        "condition": "Poor",
+        "resale_value": 21332.26465555515
+    },
+    {
+        "year": 2021,
+        "mileage": 170079,
+        "condition": "Poor",
+        "resale_value": 21038.41034309814
+    },
+    {
+        "year": 2013,
+        "mileage": 49634,
+        "condition": "Good",
+        "resale_value": 23375.1839643408
+    },
+    {
+        "year": 2021,
+        "mileage": 34728,
+        "condition": "Fair",
+        "resale_value": 15797.221900136352
+    },
+    {
+        "year": 2003,
+        "mileage": 61700,
+        "condition": "Excellent",
+        "resale_value": 20157.365187373536
+    },
+    {
+        "year": 2002,
+        "mileage": 166200,
+        "condition": "Poor",
+        "resale_value": 25655.07579856201
+    },
+    {
+        "year": 2013,
+        "mileage": 194080,
+        "condition": "Good",
+        "resale_value": 18460.99677715952
+    },
+    {
+        "year": 2006,
+        "mileage": 190230,
+        "condition": "Fair",
+        "resale_value": 16773.1742164144
+    },
+    {
+        "year": 2007,
+        "mileage": 103181,
+        "condition": "Good",
+        "resale_value": 13768.483908434951
+    },
+    {
+        "year": 2022,
+        "mileage": 96939,
+        "condition": "Excellent",
+        "resale_value": 13503.945063695264
+    },
+    {
+        "year": 2018,
+        "mileage": 142559,
+        "condition": "Good",
+        "resale_value": 14802.804348971342
+    },
+    {
+        "year": 2000,
+        "mileage": 93933,
+        "condition": "Excellent",
+        "resale_value": 26127.074645777273
+    },
+    {
+        "year": 2020,
+        "mileage": 13586,
+        "condition": "Good",
+        "resale_value": 21518.34118999436
+    },
+    {
+        "year": 2004,
+        "mileage": 41328,
+        "condition": "Excellent",
+        "resale_value": 18698.203953389137
+    },
+    {
+        "year": 2010,
+        "mileage": 173741,
+        "condition": "Fair",
+        "resale_value": 18646.721354019934
+    },
+    {
+        "year": 2008,
+        "mileage": 145505,
+        "condition": "Excellent",
+        "resale_value": 16974.163911022948
+    },
+    {
+        "year": 2022,
+        "mileage": 154782,
+        "condition": "Excellent",
+        "resale_value": 20032.68536750213
+    },
+    {
+        "year": 2021,
+        "mileage": 163507,
+        "condition": "Poor",
+        "resale_value": 27112.312338650197
+    },
+    {
+        "year": 2002,
+        "mileage": 43908,
+        "condition": "Fair",
+        "resale_value": 20146.065038820798
+    },
+    {
+        "year": 2012,
+        "mileage": 77301,
+        "condition": "Good",
+        "resale_value": 29800.40873243503
+    },
+    {
+        "year": 2018,
+        "mileage": 196944,
+        "condition": "Fair",
+        "resale_value": 29278.772662640484
+    },
+    {
+        "year": 2017,
+        "mileage": 160198,
+        "condition": "Excellent",
+        "resale_value": 18723.368466864544
+    },
+    {
+        "year": 2022,
+        "mileage": 133517,
+        "condition": "Excellent",
+        "resale_value": 24336.769247535223
+    },
+    {
+        "year": 2017,
+        "mileage": 154026,
+        "condition": "Poor",
+        "resale_value": 20957.781258715713
+    },
+    {
+        "year": 2009,
+        "mileage": 84631,
+        "condition": "Excellent",
+        "resale_value": 17886.331083774105
+    },
+    {
+        "year": 2004,
+        "mileage": 183317,
+        "condition": "Good",
+        "resale_value": 21581.766170505085
+    },
+    {
+        "year": 2006,
+        "mileage": 188409,
+        "condition": "Fair",
+        "resale_value": 14688.143022112017
+    },
+    {
+        "year": 2019,
+        "mileage": 25144,
+        "condition": "Good",
+        "resale_value": 19239.627109596404
+    },
+    {
+        "year": 2001,
+        "mileage": 11843,
+        "condition": "Fair",
+        "resale_value": 19169.051148404946
+    },
+    {
+        "year": 2013,
+        "mileage": 177284,
+        "condition": "Fair",
+        "resale_value": 24545.043660979834
+    },
+    {
+        "year": 2022,
+        "mileage": 151516,
+        "condition": "Good",
+        "resale_value": 21159.50735337643
+    },
+    {
+        "year": 2010,
+        "mileage": 134847,
+        "condition": "Poor",
+        "resale_value": 23646.95658843542
+    },
+    {
+        "year": 2004,
+        "mileage": 18498,
+        "condition": "Fair",
+        "resale_value": 23743.958217797237
+    },
+    {
+        "year": 2020,
+        "mileage": 170447,
+        "condition": "Excellent",
+        "resale_value": 27887.705244753328
+    },
+    {
+        "year": 2019,
+        "mileage": 147405,
+        "condition": "Poor",
+        "resale_value": 28807.05984366435
+    },
+    {
+        "year": 2019,
+        "mileage": 193702,
+        "condition": "Excellent",
+        "resale_value": 18301.72413314696
+    },
+    {
+        "year": 2007,
+        "mileage": 36562,
+        "condition": "Fair",
+        "resale_value": 21153.398971730378
+    },
+    {
+        "year": 2006,
+        "mileage": 120003,
+        "condition": "Good",
+        "resale_value": 13723.522866158304
+    },
+    {
+        "year": 2001,
+        "mileage": 69128,
+        "condition": "Poor",
+        "resale_value": 26020.41889065624
+    },
+    {
+        "year": 2014,
+        "mileage": 111997,
+        "condition": "Poor",
+        "resale_value": 23155.43482037303
+    },
+    {
+        "year": 2016,
+        "mileage": 36615,
+        "condition": "Excellent",
+        "resale_value": 16273.639769959515
+    },
+    {
+        "year": 2008,
+        "mileage": 86098,
+        "condition": "Fair",
+        "resale_value": 10454.288661352288
+    },
+    {
+        "year": 2021,
+        "mileage": 30255,
+        "condition": "Poor",
+        "resale_value": 24551.631311382887
+    },
+    {
+        "year": 2020,
+        "mileage": 75277,
+        "condition": "Excellent",
+        "resale_value": 21039.566567491303
+    },
+    {
+        "year": 2019,
+        "mileage": 144408,
+        "condition": "Good",
+        "resale_value": 13809.763367040494
+    },
+    {
+        "year": 2020,
+        "mileage": 156144,
+        "condition": "Fair",
+        "resale_value": 22831.02737645005
+    },
+    {
+        "year": 2009,
+        "mileage": 175445,
+        "condition": "Fair",
+        "resale_value": 12122.077678765105
+    },
+    {
+        "year": 2000,
+        "mileage": 138659,
+        "condition": "Good",
+        "resale_value": 19238.037854014645
+    },
+    {
+        "year": 2001,
+        "mileage": 127300,
+        "condition": "Excellent",
+        "resale_value": 13828.884001885304
+    },
+    {
+        "year": 2008,
+        "mileage": 134349,
+        "condition": "Good",
+        "resale_value": 24054.668268136087
+    },
+    {
+        "year": 2017,
+        "mileage": 60349,
+        "condition": "Excellent",
+        "resale_value": 12090.74641087791
+    },
+    {
+        "year": 2001,
+        "mileage": 46383,
+        "condition": "Poor",
+        "resale_value": 20292.632603468963
+    },
+    {
+        "year": 2000,
+        "mileage": 100038,
+        "condition": "Good",
+        "resale_value": 24770.45963213432
+    },
+    {
+        "year": 2007,
+        "mileage": 165798,
+        "condition": "Excellent",
+        "resale_value": 18904.96678691615
+    },
+    {
+        "year": 2002,
+        "mileage": 57728,
+        "condition": "Poor",
+        "resale_value": 22783.01663863854
+    },
+    {
+        "year": 2010,
+        "mileage": 17529,
+        "condition": "Excellent",
+        "resale_value": 19869.220427268752
+    },
+    {
+        "year": 2011,
+        "mileage": 139622,
+        "condition": "Excellent",
+        "resale_value": 19266.954183402704
+    },
+    {
+        "year": 2017,
+        "mileage": 30588,
+        "condition": "Excellent",
+        "resale_value": 14059.657886417874
+    },
+    {
+        "year": 2020,
+        "mileage": 148818,
+        "condition": "Poor",
+        "resale_value": 18343.354282571745
+    },
+    {
+        "year": 2019,
+        "mileage": 61943,
+        "condition": "Excellent",
+        "resale_value": 19502.60519176878
+    },
+    {
+        "year": 2006,
+        "mileage": 135206,
+        "condition": "Fair",
+        "resale_value": 26994.49766680993
+    },
+    {
+        "year": 2018,
+        "mileage": 185495,
+        "condition": "Good",
+        "resale_value": 26308.538161920304
+    },
+    {
+        "year": 2022,
+        "mileage": 151968,
+        "condition": "Fair",
+        "resale_value": 27520.216599660096
+    },
+    {
+        "year": 2000,
+        "mileage": 39105,
+        "condition": "Good",
+        "resale_value": 23220.217155638453
+    },
+    {
+        "year": 2009,
+        "mileage": 166109,
+        "condition": "Excellent",
+        "resale_value": 22747.805898595354
+    },
+    {
+        "year": 2008,
+        "mileage": 127652,
+        "condition": "Good",
+        "resale_value": 8297.774104199458
+    },
+    {
+        "year": 2008,
+        "mileage": 114762,
+        "condition": "Good",
+        "resale_value": 20444.468685549713
+    },
+    {
+        "year": 2020,
+        "mileage": 186119,
+        "condition": "Excellent",
+        "resale_value": 13049.2049597216
+    },
+    {
+        "year": 2016,
+        "mileage": 41837,
+        "condition": "Poor",
+        "resale_value": 29049.43649494619
+    },
+    {
+        "year": 2005,
+        "mileage": 181624,
+        "condition": "Fair",
+        "resale_value": 12996.613006769208
+    },
+    {
+        "year": 2016,
+        "mileage": 84948,
+        "condition": "Good",
+        "resale_value": 18758.2632075782
+    },
+    {
+        "year": 2011,
+        "mileage": 143637,
+        "condition": "Excellent",
+        "resale_value": 27717.109711519945
+    },
+    {
+        "year": 2011,
+        "mileage": 162145,
+        "condition": "Good",
+        "resale_value": 17592.276154019062
+    },
+    {
+        "year": 2018,
+        "mileage": 112145,
+        "condition": "Excellent",
+        "resale_value": 21477.153693869528
+    },
+    {
+        "year": 2020,
+        "mileage": 39152,
+        "condition": "Fair",
+        "resale_value": 21090.177795548432
+    },
+    {
+        "year": 2015,
+        "mileage": 109230,
+        "condition": "Good",
+        "resale_value": 18168.19969797535
+    },
+    {
+        "year": 2002,
+        "mileage": 16196,
+        "condition": "Excellent",
+        "resale_value": 23687.489162659436
+    },
+    {
+        "year": 2001,
+        "mileage": 155588,
+        "condition": "Excellent",
+        "resale_value": 22755.496653685845
+    },
+    {
+        "year": 2007,
+        "mileage": 58825,
+        "condition": "Fair",
+        "resale_value": 17366.63435015703
+    },
+    {
+        "year": 2013,
+        "mileage": 23200,
+        "condition": "Fair",
+        "resale_value": 14393.246185816883
+    },
+    {
+        "year": 2018,
+        "mileage": 137522,
+        "condition": "Fair",
+        "resale_value": 32294.562952900436
+    },
+    {
+        "year": 2000,
+        "mileage": 142236,
+        "condition": "Fair",
+        "resale_value": 15505.208870081668
+    },
+    {
+        "year": 2007,
+        "mileage": 115355,
+        "condition": "Good",
+        "resale_value": 13929.49005148714
+    },
+    {
+        "year": 2022,
+        "mileage": 59234,
+        "condition": "Fair",
+        "resale_value": 25189.714257811494
+    },
+    {
+        "year": 2010,
+        "mileage": 75709,
+        "condition": "Good",
+        "resale_value": 23444.265655949916
+    },
+    {
+        "year": 2019,
+        "mileage": 187672,
+        "condition": "Excellent",
+        "resale_value": 27537.039511253053
+    },
+    {
+        "year": 2001,
+        "mileage": 56963,
+        "condition": "Excellent",
+        "resale_value": 20352.23425361978
+    },
+    {
+        "year": 2004,
+        "mileage": 145697,
+        "condition": "Excellent",
+        "resale_value": 21229.887794604198
+    },
+    {
+        "year": 2002,
+        "mileage": 129690,
+        "condition": "Good",
+        "resale_value": 18531.897301914825
+    },
+    {
+        "year": 2020,
+        "mileage": 101553,
+        "condition": "Poor",
+        "resale_value": 29681.88667330429
+    },
+    {
+        "year": 2000,
+        "mileage": 54383,
+        "condition": "Fair",
+        "resale_value": 16368.67092064227
+    },
+    {
+        "year": 2011,
+        "mileage": 158233,
+        "condition": "Excellent",
+        "resale_value": 11412.207081120361
+    },
+    {
+        "year": 2013,
+        "mileage": 159951,
+        "condition": "Excellent",
+        "resale_value": 18818.519458670584
+    },
+    {
+        "year": 2002,
+        "mileage": 199727,
+        "condition": "Poor",
+        "resale_value": 18294.52916503586
+    },
+    {
+        "year": 2016,
+        "mileage": 116948,
+        "condition": "Fair",
+        "resale_value": 21187.909275466376
+    },
+    {
+        "year": 2018,
+        "mileage": 81318,
+        "condition": "Poor",
+        "resale_value": 20379.45750985742
+    },
+    {
+        "year": 2014,
+        "mileage": 46552,
+        "condition": "Good",
+        "resale_value": 20752.175222074246
+    },
+    {
+        "year": 2004,
+        "mileage": 32988,
+        "condition": "Poor",
+        "resale_value": 14732.476687425504
+    },
+    {
+        "year": 2006,
+        "mileage": 120478,
+        "condition": "Good",
+        "resale_value": 18538.68173538943
+    },
+    {
+        "year": 2009,
+        "mileage": 10374,
+        "condition": "Fair",
+        "resale_value": 16013.285920279464
+    },
+    {
+        "year": 2018,
+        "mileage": 173241,
+        "condition": "Excellent",
+        "resale_value": 17664.857490048722
+    },
+    {
+        "year": 2017,
+        "mileage": 94477,
+        "condition": "Excellent",
+        "resale_value": 16606.004309686323
+    },
+    {
+        "year": 2021,
+        "mileage": 108060,
+        "condition": "Poor",
+        "resale_value": 12323.991952070395
+    },
+    {
+        "year": 2005,
+        "mileage": 24499,
+        "condition": "Poor",
+        "resale_value": 21671.373061056205
+    },
+    {
+        "year": 2002,
+        "mileage": 134768,
+        "condition": "Fair",
+        "resale_value": 14992.707828008268
+    },
+    {
+        "year": 2009,
+        "mileage": 80472,
+        "condition": "Good",
+        "resale_value": 23508.55185675245
+    },
+    {
+        "year": 2000,
+        "mileage": 60778,
+        "condition": "Excellent",
+        "resale_value": 17590.570419222167
+    },
+    {
+        "year": 2020,
+        "mileage": 21029,
+        "condition": "Fair",
+        "resale_value": 20263.14976113868
+    },
+    {
+        "year": 2012,
+        "mileage": 132930,
+        "condition": "Good",
+        "resale_value": 17913.56330538573
+    },
+    {
+        "year": 2017,
+        "mileage": 182122,
+        "condition": "Fair",
+        "resale_value": 17648.043371608863
+    },
+    {
+        "year": 2019,
+        "mileage": 109112,
+        "condition": "Poor",
+        "resale_value": 19673.41223515104
+    },
+    {
+        "year": 2017,
+        "mileage": 71857,
+        "condition": "Fair",
+        "resale_value": 24111.731813093153
+    },
+    {
+        "year": 2002,
+        "mileage": 66877,
+        "condition": "Fair",
+        "resale_value": 17205.240317249103
+    },
+    {
+        "year": 2007,
+        "mileage": 30915,
+        "condition": "Poor",
+        "resale_value": 18176.166046880047
+    },
+    {
+        "year": 2003,
+        "mileage": 134223,
+        "condition": "Fair",
+        "resale_value": 17859.185904343256
+    },
+    {
+        "year": 2019,
+        "mileage": 119249,
+        "condition": "Poor",
+        "resale_value": 17192.574715988863
+    },
+    {
+        "year": 2004,
+        "mileage": 185991,
+        "condition": "Excellent",
+        "resale_value": 15676.895190108346
+    },
+    {
+        "year": 2004,
+        "mileage": 62252,
+        "condition": "Good",
+        "resale_value": 20354.029979033603
+    },
+    {
+        "year": 2015,
+        "mileage": 83382,
+        "condition": "Good",
+        "resale_value": 15128.299804700404
+    },
+    {
+        "year": 2012,
+        "mileage": 51341,
+        "condition": "Good",
+        "resale_value": 23949.939430961716
+    },
+    {
+        "year": 2005,
+        "mileage": 178797,
+        "condition": "Fair",
+        "resale_value": 27126.43622916998
+    },
+    {
+        "year": 2015,
+        "mileage": 76241,
+        "condition": "Poor",
+        "resale_value": 23713.78341642469
+    },
+    {
+        "year": 2010,
+        "mileage": 13711,
+        "condition": "Excellent",
+        "resale_value": 11309.926606348165
+    },
+    {
+        "year": 2000,
+        "mileage": 50716,
+        "condition": "Good",
+        "resale_value": 21391.17301134945
+    },
+    {
+        "year": 2002,
+        "mileage": 185442,
+        "condition": "Excellent",
+        "resale_value": 26326.118618413795
+    },
+    {
+        "year": 2015,
+        "mileage": 48076,
+        "condition": "Poor",
+        "resale_value": 20084.666098246136
+    },
+    {
+        "year": 2000,
+        "mileage": 97495,
+        "condition": "Excellent",
+        "resale_value": 14163.578673470627
+    },
+    {
+        "year": 2017,
+        "mileage": 91914,
+        "condition": "Excellent",
+        "resale_value": 22856.96771608754
+    },
+    {
+        "year": 2014,
+        "mileage": 21838,
+        "condition": "Fair",
+        "resale_value": 15628.728365519244
+    },
+    {
+        "year": 2006,
+        "mileage": 42473,
+        "condition": "Good",
+        "resale_value": 13245.204220072728
+    },
+    {
+        "year": 2006,
+        "mileage": 154183,
+        "condition": "Excellent",
+        "resale_value": 14907.82184284525
+    },
+    {
+        "year": 2012,
+        "mileage": 177379,
+        "condition": "Poor",
+        "resale_value": 22123.307449988388
+    },
+    {
+        "year": 2015,
+        "mileage": 171413,
+        "condition": "Good",
+        "resale_value": 22099.158195122127
+    },
+    {
+        "year": 2014,
+        "mileage": 54070,
+        "condition": "Good",
+        "resale_value": 20925.80540751193
+    },
+    {
+        "year": 2019,
+        "mileage": 13052,
+        "condition": "Poor",
+        "resale_value": 20713.02268993384
+    },
+    {
+        "year": 2019,
+        "mileage": 194777,
+        "condition": "Good",
+        "resale_value": 19578.43079025913
+    },
+    {
+        "year": 2012,
+        "mileage": 31363,
+        "condition": "Good",
+        "resale_value": 25980.88731113387
+    },
+    {
+        "year": 2021,
+        "mileage": 168834,
+        "condition": "Good",
+        "resale_value": 12779.493973881761
+    },
+    {
+        "year": 2020,
+        "mileage": 78029,
+        "condition": "Excellent",
+        "resale_value": 17229.167548429323
+    },
+    {
+        "year": 2001,
+        "mileage": 156557,
+        "condition": "Excellent",
+        "resale_value": 19586.64694072318
+    },
+    {
+        "year": 2007,
+        "mileage": 180137,
+        "condition": "Fair",
+        "resale_value": 21820.651998194437
+    },
+    {
+        "year": 2003,
+        "mileage": 92238,
+        "condition": "Good",
+        "resale_value": 17413.83439121394
+    },
+    {
+        "year": 2005,
+        "mileage": 92525,
+        "condition": "Fair",
+        "resale_value": 20647.31068587808
+    },
+    {
+        "year": 2020,
+        "mileage": 194955,
+        "condition": "Excellent",
+        "resale_value": 20833.67544615972
+    },
+    {
+        "year": 2002,
+        "mileage": 115588,
+        "condition": "Good",
+        "resale_value": 23133.783381000303
+    },
+    {
+        "year": 2000,
+        "mileage": 179302,
+        "condition": "Fair",
+        "resale_value": 14962.472167996359
+    },
+    {
+        "year": 2004,
+        "mileage": 102919,
+        "condition": "Good",
+        "resale_value": 27282.133974070188
+    },
+    {
+        "year": 2009,
+        "mileage": 135082,
+        "condition": "Fair",
+        "resale_value": 13392.595515841746
+    },
+    {
+        "year": 2014,
+        "mileage": 88952,
+        "condition": "Poor",
+        "resale_value": 20633.919345753344
+    },
+    {
+        "year": 2022,
+        "mileage": 80566,
+        "condition": "Poor",
+        "resale_value": 15097.705455235155
+    },
+    {
+        "year": 2005,
+        "mileage": 181532,
+        "condition": "Poor",
+        "resale_value": 12785.666385513137
+    },
+    {
+        "year": 2013,
+        "mileage": 109793,
+        "condition": "Fair",
+        "resale_value": 20111.844260903865
+    },
+    {
+        "year": 2017,
+        "mileage": 54788,
+        "condition": "Fair",
+        "resale_value": 25468.46887863434
+    },
+    {
+        "year": 2022,
+        "mileage": 63354,
+        "condition": "Excellent",
+        "resale_value": 31544.04062376894
+    },
+    {
+        "year": 2010,
+        "mileage": 119514,
+        "condition": "Good",
+        "resale_value": 17321.986533751668
+    },
+    {
+        "year": 2012,
+        "mileage": 96045,
+        "condition": "Poor",
+        "resale_value": 25220.02530909006
+    },
+    {
+        "year": 2013,
+        "mileage": 49990,
+        "condition": "Good",
+        "resale_value": 20816.209067608794
+    },
+    {
+        "year": 2022,
+        "mileage": 18489,
+        "condition": "Good",
+        "resale_value": 27015.98526753594
+    },
+    {
+        "year": 2020,
+        "mileage": 14694,
+        "condition": "Excellent",
+        "resale_value": 16741.527660556287
+    },
+    {
+        "year": 2003,
+        "mileage": 147379,
+        "condition": "Excellent",
+        "resale_value": 11347.7601056069
+    },
+    {
+        "year": 2020,
+        "mileage": 94694,
+        "condition": "Poor",
+        "resale_value": 24429.955834165397
+    },
+    {
+        "year": 2015,
+        "mileage": 76553,
+        "condition": "Good",
+        "resale_value": 18352.083201641504
+    },
+    {
+        "year": 2003,
+        "mileage": 192343,
+        "condition": "Poor",
+        "resale_value": 9836.749881600586
+    },
+    {
+        "year": 2010,
+        "mileage": 145399,
+        "condition": "Fair",
+        "resale_value": 23574.72886683517
+    },
+    {
+        "year": 2021,
+        "mileage": 66078,
+        "condition": "Poor",
+        "resale_value": 17524.635921851794
+    },
+    {
+        "year": 2006,
+        "mileage": 95698,
+        "condition": "Excellent",
+        "resale_value": 22545.556044455712
+    },
+    {
+        "year": 2011,
+        "mileage": 161345,
+        "condition": "Good",
+        "resale_value": 23681.83236081016
+    },
+    {
+        "year": 2004,
+        "mileage": 167701,
+        "condition": "Excellent",
+        "resale_value": 6135.232584265201
+    },
+    {
+        "year": 2000,
+        "mileage": 183445,
+        "condition": "Fair",
+        "resale_value": 18351.71407845783
+    },
+    {
+        "year": 2013,
+        "mileage": 139391,
+        "condition": "Fair",
+        "resale_value": 20384.651742630867
+    },
+    {
+        "year": 2016,
+        "mileage": 108745,
+        "condition": "Excellent",
+        "resale_value": 27394.013593983444
+    },
+    {
+        "year": 2005,
+        "mileage": 109350,
+        "condition": "Fair",
+        "resale_value": 22158.327778369636
+    },
+    {
+        "year": 2006,
+        "mileage": 153908,
+        "condition": "Excellent",
+        "resale_value": 20871.801090406196
+    },
+    {
+        "year": 2004,
+        "mileage": 171707,
+        "condition": "Excellent",
+        "resale_value": 15838.41122360382
+    },
+    {
+        "year": 2014,
+        "mileage": 67493,
+        "condition": "Fair",
+        "resale_value": 19743.15367149545
+    },
+    {
+        "year": 2013,
+        "mileage": 165042,
+        "condition": "Excellent",
+        "resale_value": 20352.84768900529
+    },
+    {
+        "year": 2022,
+        "mileage": 118888,
+        "condition": "Good",
+        "resale_value": 15650.148831186314
+    },
+    {
+        "year": 2010,
+        "mileage": 191101,
+        "condition": "Fair",
+        "resale_value": 24031.256831243998
+    },
+    {
+        "year": 2011,
+        "mileage": 66379,
+        "condition": "Fair",
+        "resale_value": 21743.11924065533
+    },
+    {
+        "year": 2009,
+        "mileage": 169132,
+        "condition": "Excellent",
+        "resale_value": 25431.26391435365
+    },
+    {
+        "year": 2018,
+        "mileage": 103765,
+        "condition": "Excellent",
+        "resale_value": 20121.649510058538
+    },
+    {
+        "year": 2014,
+        "mileage": 24508,
+        "condition": "Good",
+        "resale_value": 22667.033749483813
+    },
+    {
+        "year": 2021,
+        "mileage": 33047,
+        "condition": "Excellent",
+        "resale_value": 32962.361411623264
+    },
+    {
+        "year": 2019,
+        "mileage": 30763,
+        "condition": "Poor",
+        "resale_value": 26117.404381275483
+    },
+    {
+        "year": 2015,
+        "mileage": 148880,
+        "condition": "Fair",
+        "resale_value": 25218.683171719986
+    },
+    {
+        "year": 2019,
+        "mileage": 83863,
+        "condition": "Poor",
+        "resale_value": 12787.159012554614
+    },
+    {
+        "year": 2017,
+        "mileage": 97650,
+        "condition": "Poor",
+        "resale_value": 25478.043167296782
+    },
+    {
+        "year": 2018,
+        "mileage": 45645,
+        "condition": "Fair",
+        "resale_value": 19495.870098425537
+    },
+    {
+        "year": 2005,
+        "mileage": 113316,
+        "condition": "Fair",
+        "resale_value": 22252.865021772486
+    },
+    {
+        "year": 2016,
+        "mileage": 123851,
+        "condition": "Excellent",
+        "resale_value": 19288.930812059767
+    },
+    {
+        "year": 2017,
+        "mileage": 33975,
+        "condition": "Poor",
+        "resale_value": 23026.23413992083
+    },
+    {
+        "year": 2021,
+        "mileage": 52758,
+        "condition": "Excellent",
+        "resale_value": 21108.722710569153
+    },
+    {
+        "year": 2013,
+        "mileage": 77592,
+        "condition": "Poor",
+        "resale_value": 10532.677652038321
+    },
+    {
+        "year": 2000,
+        "mileage": 150211,
+        "condition": "Excellent",
+        "resale_value": 20534.54938106444
+    },
+    {
+        "year": 2006,
+        "mileage": 80668,
+        "condition": "Fair",
+        "resale_value": 27438.475716353554
+    },
+    {
+        "year": 2009,
+        "mileage": 135970,
+        "condition": "Poor",
+        "resale_value": 21252.9587008455
+    },
+    {
+        "year": 2010,
+        "mileage": 33550,
+        "condition": "Fair",
+        "resale_value": 12945.18249478138
+    },
+    {
+        "year": 2002,
+        "mileage": 22324,
+        "condition": "Good",
+        "resale_value": 23834.444320323084
+    },
+    {
+        "year": 2009,
+        "mileage": 109633,
+        "condition": "Fair",
+        "resale_value": 19110.017717835974
+    },
+    {
+        "year": 2020,
+        "mileage": 19298,
+        "condition": "Excellent",
+        "resale_value": 17025.598524851892
+    },
+    {
+        "year": 2008,
+        "mileage": 57786,
+        "condition": "Poor",
+        "resale_value": 22758.866086870694
+    },
+    {
+        "year": 2010,
+        "mileage": 168731,
+        "condition": "Good",
+        "resale_value": 20562.49945110021
+    },
+    {
+        "year": 2012,
+        "mileage": 82396,
+        "condition": "Fair",
+        "resale_value": 21164.502948483332
+    },
+    {
+        "year": 2008,
+        "mileage": 149326,
+        "condition": "Fair",
+        "resale_value": 17970.50991120042
+    },
+    {
+        "year": 2002,
+        "mileage": 81680,
+        "condition": "Fair",
+        "resale_value": 19831.58478038508
+    },
+    {
+        "year": 2000,
+        "mileage": 55980,
+        "condition": "Fair",
+        "resale_value": 22682.216004897247
+    },
+    {
+        "year": 2016,
+        "mileage": 138174,
+        "condition": "Fair",
+        "resale_value": 26686.463468049304
+    },
+    {
+        "year": 2013,
+        "mileage": 90749,
+        "condition": "Excellent",
+        "resale_value": 28905.537050203842
+    },
+    {
+        "year": 2005,
+        "mileage": 106411,
+        "condition": "Fair",
+        "resale_value": 19873.862428304674
+    },
+    {
+        "year": 2014,
+        "mileage": 61519,
+        "condition": "Poor",
+        "resale_value": 18760.73913171568
+    },
+    {
+        "year": 2015,
+        "mileage": 86360,
+        "condition": "Excellent",
+        "resale_value": 19339.279360582765
+    },
+    {
+        "year": 2007,
+        "mileage": 86712,
+        "condition": "Fair",
+        "resale_value": 7618.596477149027
+    },
+    {
+        "year": 2001,
+        "mileage": 160957,
+        "condition": "Poor",
+        "resale_value": 20770.971483318073
+    },
+    {
+        "year": 2020,
+        "mileage": 133774,
+        "condition": "Good",
+        "resale_value": 16801.993642288082
+    },
+    {
+        "year": 2017,
+        "mileage": 72699,
+        "condition": "Fair",
+        "resale_value": 21928.067836340997
+    },
+    {
+        "year": 2001,
+        "mileage": 82399,
+        "condition": "Good",
+        "resale_value": 21104.137477416996
+    },
+    {
+        "year": 2006,
+        "mileage": 30425,
+        "condition": "Poor",
+        "resale_value": 24870.686409675476
+    },
+    {
+        "year": 2003,
+        "mileage": 76905,
+        "condition": "Poor",
+        "resale_value": 12549.750963476847
+    },
+    {
+        "year": 2015,
+        "mileage": 179093,
+        "condition": "Excellent",
+        "resale_value": 15568.242004284291
+    },
+    {
+        "year": 2021,
+        "mileage": 193890,
+        "condition": "Fair",
+        "resale_value": 16576.016842272937
+    },
+    {
+        "year": 2003,
+        "mileage": 191755,
+        "condition": "Good",
+        "resale_value": 23383.77678099277
+    },
+    {
+        "year": 2003,
+        "mileage": 35041,
+        "condition": "Good",
+        "resale_value": 24252.17830212641
+    },
+    {
+        "year": 2006,
+        "mileage": 42314,
+        "condition": "Fair",
+        "resale_value": 20021.662982226153
+    },
+    {
+        "year": 2011,
+        "mileage": 150125,
+        "condition": "Good",
+        "resale_value": 15628.631362972104
+    },
+    {
+        "year": 2021,
+        "mileage": 152603,
+        "condition": "Poor",
+        "resale_value": 30447.287049035673
+    },
+    {
+        "year": 2004,
+        "mileage": 167094,
+        "condition": "Fair",
+        "resale_value": 21235.73842532576
+    },
+    {
+        "year": 2019,
+        "mileage": 98286,
+        "condition": "Fair",
+        "resale_value": 21900.629965347303
+    },
+    {
+        "year": 2003,
+        "mileage": 123063,
+        "condition": "Poor",
+        "resale_value": 29138.960572593463
+    },
+    {
+        "year": 2005,
+        "mileage": 83651,
+        "condition": "Good",
+        "resale_value": 19624.57300786867
+    },
+    {
+        "year": 2018,
+        "mileage": 102347,
+        "condition": "Fair",
+        "resale_value": 13343.661361945033
+    },
+    {
+        "year": 2019,
+        "mileage": 130354,
+        "condition": "Excellent",
+        "resale_value": 25413.5578349902
+    },
+    {
+        "year": 2002,
+        "mileage": 79643,
+        "condition": "Excellent",
+        "resale_value": 25332.246516085135
+    },
+    {
+        "year": 2021,
+        "mileage": 82488,
+        "condition": "Good",
+        "resale_value": 8679.882264062599
+    },
+    {
+        "year": 2011,
+        "mileage": 109595,
+        "condition": "Excellent",
+        "resale_value": 19520.780796588664
+    },
+    {
+        "year": 2004,
+        "mileage": 51760,
+        "condition": "Good",
+        "resale_value": 22584.261085889804
+    },
+    {
+        "year": 2016,
+        "mileage": 95436,
+        "condition": "Poor",
+        "resale_value": 17037.264507872795
+    },
+    {
+        "year": 2020,
+        "mileage": 46309,
+        "condition": "Good",
+        "resale_value": 17985.403834302968
+    },
+    {
+        "year": 2005,
+        "mileage": 18198,
+        "condition": "Poor",
+        "resale_value": 26034.822895714697
+    },
+    {
+        "year": 2012,
+        "mileage": 137914,
+        "condition": "Excellent",
+        "resale_value": 6187.420196653135
+    },
+    {
+        "year": 2018,
+        "mileage": 121120,
+        "condition": "Good",
+        "resale_value": 18650.572408588563
+    },
+    {
+        "year": 2004,
+        "mileage": 105843,
+        "condition": "Good",
+        "resale_value": 18756.54780039657
+    },
+    {
+        "year": 2015,
+        "mileage": 134963,
+        "condition": "Excellent",
+        "resale_value": 27909.843967476572
+    },
+    {
+        "year": 2016,
+        "mileage": 145375,
+        "condition": "Good",
+        "resale_value": 13259.507760629494
+    },
+    {
+        "year": 2013,
+        "mileage": 79531,
+        "condition": "Poor",
+        "resale_value": 25926.7892463382
+    },
+    {
+        "year": 2011,
+        "mileage": 105897,
+        "condition": "Excellent",
+        "resale_value": 23700.47595768435
+    },
+    {
+        "year": 2018,
+        "mileage": 15515,
+        "condition": "Good",
+        "resale_value": 29294.137945477014
+    },
+    {
+        "year": 2017,
+        "mileage": 44536,
+        "condition": "Good",
+        "resale_value": 24595.162275779956
+    },
+    {
+        "year": 2022,
+        "mileage": 129331,
+        "condition": "Fair",
+        "resale_value": 13458.80512585977
+    },
+    {
+        "year": 2021,
+        "mileage": 194763,
+        "condition": "Fair",
+        "resale_value": 24089.04814483277
+    },
+    {
+        "year": 2011,
+        "mileage": 185475,
+        "condition": "Poor",
+        "resale_value": 15054.617639627837
+    },
+    {
+        "year": 2018,
+        "mileage": 137193,
+        "condition": "Good",
+        "resale_value": 31763.28377308524
+    },
+    {
+        "year": 2009,
+        "mileage": 188787,
+        "condition": "Excellent",
+        "resale_value": 8906.866594013494
+    },
+    {
+        "year": 2004,
+        "mileage": 128662,
+        "condition": "Good",
+        "resale_value": 22308.746141085903
+    },
+    {
+        "year": 2003,
+        "mileage": 52728,
+        "condition": "Excellent",
+        "resale_value": 19590.02601759257
+    },
+    {
+        "year": 2021,
+        "mileage": 87471,
+        "condition": "Poor",
+        "resale_value": 17290.934419157045
+    },
+    {
+        "year": 2011,
+        "mileage": 171569,
+        "condition": "Fair",
+        "resale_value": 23471.41686316677
+    },
+    {
+        "year": 2011,
+        "mileage": 114158,
+        "condition": "Fair",
+        "resale_value": 25292.152191265515
+    },
+    {
+        "year": 2018,
+        "mileage": 127424,
+        "condition": "Good",
+        "resale_value": 18186.007185207498
+    },
+    {
+        "year": 2012,
+        "mileage": 73713,
+        "condition": "Poor",
+        "resale_value": 18431.248525316267
+    },
+    {
+        "year": 2003,
+        "mileage": 179473,
+        "condition": "Poor",
+        "resale_value": 16821.46037085967
+    },
+    {
+        "year": 2017,
+        "mileage": 114340,
+        "condition": "Poor",
+        "resale_value": 11701.554025624662
+    },
+    {
+        "year": 2013,
+        "mileage": 95844,
+        "condition": "Good",
+        "resale_value": 19355.43127869548
+    },
+    {
+        "year": 2000,
+        "mileage": 98206,
+        "condition": "Good",
+        "resale_value": 23899.095998756988
+    },
+    {
+        "year": 2000,
+        "mileage": 60399,
+        "condition": "Poor",
+        "resale_value": 14779.224534443038
+    },
+    {
+        "year": 2015,
+        "mileage": 40529,
+        "condition": "Poor",
+        "resale_value": 24073.711724559333
+    },
+    {
+        "year": 2011,
+        "mileage": 155546,
+        "condition": "Fair",
+        "resale_value": 19002.502992446945
+    },
+    {
+        "year": 2002,
+        "mileage": 52268,
+        "condition": "Poor",
+        "resale_value": 24306.202460902197
+    },
+    {
+        "year": 2007,
+        "mileage": 96717,
+        "condition": "Poor",
+        "resale_value": 15935.772792244614
+    },
+    {
+        "year": 2001,
+        "mileage": 136400,
+        "condition": "Fair",
+        "resale_value": 17754.204512073553
+    },
+    {
+        "year": 2020,
+        "mileage": 41641,
+        "condition": "Poor",
+        "resale_value": 25849.64782128293
+    },
+    {
+        "year": 2018,
+        "mileage": 89011,
+        "condition": "Excellent",
+        "resale_value": 11300.679878583698
+    },
+    {
+        "year": 2002,
+        "mileage": 165750,
+        "condition": "Excellent",
+        "resale_value": 27499.437460049587
+    },
+    {
+        "year": 2010,
+        "mileage": 95419,
+        "condition": "Fair",
+        "resale_value": 17901.99556002858
+    },
+    {
+        "year": 2004,
+        "mileage": 17397,
+        "condition": "Poor",
+        "resale_value": 21638.822910105282
+    },
+    {
+        "year": 2016,
+        "mileage": 113557,
+        "condition": "Excellent",
+        "resale_value": 15746.58427503122
+    },
+    {
+        "year": 2004,
+        "mileage": 109064,
+        "condition": "Good",
+        "resale_value": 19814.60570185511
+    },
+    {
+        "year": 2011,
+        "mileage": 89074,
+        "condition": "Good",
+        "resale_value": 19442.853350575726
+    },
+    {
+        "year": 2007,
+        "mileage": 161944,
+        "condition": "Good",
+        "resale_value": 26354.447483099873
+    },
+    {
+        "year": 2021,
+        "mileage": 140102,
+        "condition": "Good",
+        "resale_value": 20435.575829480214
+    },
+    {
+        "year": 2003,
+        "mileage": 60481,
+        "condition": "Poor",
+        "resale_value": 18598.078332411445
+    },
+    {
+        "year": 2011,
+        "mileage": 40141,
+        "condition": "Fair",
+        "resale_value": 20272.436424697193
+    },
+    {
+        "year": 2007,
+        "mileage": 134025,
+        "condition": "Fair",
+        "resale_value": 25552.60915745028
+    },
+    {
+        "year": 2011,
+        "mileage": 145001,
+        "condition": "Poor",
+        "resale_value": 22125.795178904227
+    },
+    {
+        "year": 2020,
+        "mileage": 91773,
+        "condition": "Fair",
+        "resale_value": 20540.015737331003
+    },
+    {
+        "year": 2003,
+        "mileage": 13820,
+        "condition": "Good",
+        "resale_value": 17455.89025062005
+    },
+    {
+        "year": 2014,
+        "mileage": 15618,
+        "condition": "Fair",
+        "resale_value": 19083.078205363166
+    },
+    {
+        "year": 2011,
+        "mileage": 17580,
+        "condition": "Excellent",
+        "resale_value": 23788.875524513212
+    },
+    {
+        "year": 2003,
+        "mileage": 59296,
+        "condition": "Excellent",
+        "resale_value": 18271.05499380522
+    },
+    {
+        "year": 2004,
+        "mileage": 132997,
+        "condition": "Fair",
+        "resale_value": 18589.86872271585
+    },
+    {
+        "year": 2021,
+        "mileage": 172023,
+        "condition": "Excellent",
+        "resale_value": 13568.49841132046
+    },
+    {
+        "year": 2006,
+        "mileage": 122680,
+        "condition": "Poor",
+        "resale_value": 21888.868817777417
+    },
+    {
+        "year": 2021,
+        "mileage": 108535,
+        "condition": "Good",
+        "resale_value": 26272.213163816996
+    },
+    {
+        "year": 2012,
+        "mileage": 171326,
+        "condition": "Good",
+        "resale_value": 13933.848839070028
+    },
+    {
+        "year": 2020,
+        "mileage": 139198,
+        "condition": "Excellent",
+        "resale_value": 20216.1355392526
+    },
+    {
+        "year": 2009,
+        "mileage": 100827,
+        "condition": "Excellent",
+        "resale_value": 23144.015072535392
+    },
+    {
+        "year": 2013,
+        "mileage": 19700,
+        "condition": "Poor",
+        "resale_value": 17742.161479310664
+    },
+    {
+        "year": 2020,
+        "mileage": 66718,
+        "condition": "Good",
+        "resale_value": 12873.139800802304
+    },
+    {
+        "year": 2007,
+        "mileage": 182598,
+        "condition": "Poor",
+        "resale_value": 20402.81365352804
+    },
+    {
+        "year": 2006,
+        "mileage": 54666,
+        "condition": "Poor",
+        "resale_value": 16976.976477528835
+    },
+    {
+        "year": 2009,
+        "mileage": 138997,
+        "condition": "Excellent",
+        "resale_value": 19248.86638525865
+    },
+    {
+        "year": 2008,
+        "mileage": 119934,
+        "condition": "Excellent",
+        "resale_value": 21343.13462218864
+    },
+    {
+        "year": 2018,
+        "mileage": 73188,
+        "condition": "Excellent",
+        "resale_value": 18382.101989829476
+    },
+    {
+        "year": 2018,
+        "mileage": 189944,
+        "condition": "Fair",
+        "resale_value": 22583.34075451518
+    },
+    {
+        "year": 2004,
+        "mileage": 136450,
+        "condition": "Excellent",
+        "resale_value": 19435.634254826764
+    },
+    {
+        "year": 2011,
+        "mileage": 38074,
+        "condition": "Poor",
+        "resale_value": 21524.857147584164
+    },
+    {
+        "year": 2015,
+        "mileage": 14342,
+        "condition": "Good",
+        "resale_value": 20176.027822536667
+    },
+    {
+        "year": 2009,
+        "mileage": 185468,
+        "condition": "Fair",
+        "resale_value": 12754.397018991149
+    },
+    {
+        "year": 2016,
+        "mileage": 196830,
+        "condition": "Fair",
+        "resale_value": 15475.218491152998
+    },
+    {
+        "year": 2012,
+        "mileage": 196204,
+        "condition": "Good",
+        "resale_value": 31741.23276766909
+    },
+    {
+        "year": 2014,
+        "mileage": 121064,
+        "condition": "Poor",
+        "resale_value": 15976.220350498697
+    },
+    {
+        "year": 2017,
+        "mileage": 182124,
+        "condition": "Fair",
+        "resale_value": 20135.885777769046
+    },
+    {
+        "year": 2009,
+        "mileage": 170056,
+        "condition": "Good",
+        "resale_value": 16803.31328343035
+    },
+    {
+        "year": 2013,
+        "mileage": 90134,
+        "condition": "Excellent",
+        "resale_value": 22256.493913609287
+    },
+    {
+        "year": 2014,
+        "mileage": 130066,
+        "condition": "Good",
+        "resale_value": 18536.798551454744
+    },
+    {
+        "year": 2011,
+        "mileage": 50387,
+        "condition": "Poor",
+        "resale_value": 21500.026955300636
+    },
+    {
+        "year": 2000,
+        "mileage": 138800,
+        "condition": "Fair",
+        "resale_value": 21997.796036719385
+    },
+    {
+        "year": 2003,
+        "mileage": 150520,
+        "condition": "Good",
+        "resale_value": 20411.589910300325
+    },
+    {
+        "year": 2004,
+        "mileage": 21298,
+        "condition": "Excellent",
+        "resale_value": 12765.50109853768
+    },
+    {
+        "year": 2021,
+        "mileage": 183113,
+        "condition": "Poor",
+        "resale_value": 17994.112848642373
+    },
+    {
+        "year": 2018,
+        "mileage": 31304,
+        "condition": "Excellent",
+        "resale_value": 21598.67203827303
+    },
+    {
+        "year": 2009,
+        "mileage": 42698,
+        "condition": "Poor",
+        "resale_value": 23260.028476725816
+    },
+    {
+        "year": 2009,
+        "mileage": 84229,
+        "condition": "Fair",
+        "resale_value": 22270.542573696282
+    },
+    {
+        "year": 2015,
+        "mileage": 87851,
+        "condition": "Good",
+        "resale_value": 31794.55811758151
+    },
+    {
+        "year": 2016,
+        "mileage": 64567,
+        "condition": "Poor",
+        "resale_value": 25231.562464711173
+    },
+    {
+        "year": 2003,
+        "mileage": 21587,
+        "condition": "Good",
+        "resale_value": 26921.565557590784
+    },
+    {
+        "year": 2008,
+        "mileage": 42693,
+        "condition": "Fair",
+        "resale_value": 18701.115387660982
+    },
+    {
+        "year": 2011,
+        "mileage": 112174,
+        "condition": "Good",
+        "resale_value": 22336.3355827285
+    },
+    {
+        "year": 2009,
+        "mileage": 109894,
+        "condition": "Fair",
+        "resale_value": 21427.56326573141
+    },
+    {
+        "year": 2004,
+        "mileage": 99495,
+        "condition": "Good",
+        "resale_value": 20404.255982710838
+    },
+    {
+        "year": 2004,
+        "mileage": 25787,
+        "condition": "Poor",
+        "resale_value": 21026.301063904262
+    },
+    {
+        "year": 2016,
+        "mileage": 183886,
+        "condition": "Poor",
+        "resale_value": 23045.962436416863
+    },
+    {
+        "year": 2007,
+        "mileage": 149512,
+        "condition": "Excellent",
+        "resale_value": 28592.14684881653
+    },
+    {
+        "year": 2020,
+        "mileage": 180677,
+        "condition": "Poor",
+        "resale_value": 22618.423910344296
+    },
+    {
+        "year": 2006,
+        "mileage": 186149,
+        "condition": "Poor",
+        "resale_value": 19884.538058665537
+    },
+    {
+        "year": 2004,
+        "mileage": 79832,
+        "condition": "Poor",
+        "resale_value": 28919.096258260783
+    },
+    {
+        "year": 2022,
+        "mileage": 131897,
+        "condition": "Excellent",
+        "resale_value": 11629.677350742166
+    },
+    {
+        "year": 2019,
+        "mileage": 11660,
+        "condition": "Poor",
+        "resale_value": 20816.404833521345
+    },
+    {
+        "year": 2012,
+        "mileage": 181088,
+        "condition": "Poor",
+        "resale_value": 21825.410794782703
+    },
+    {
+        "year": 2010,
+        "mileage": 112757,
+        "condition": "Poor",
+        "resale_value": 13626.909501564507
+    },
+    {
+        "year": 2011,
+        "mileage": 129345,
+        "condition": "Poor",
+        "resale_value": 16652.107055527616
+    },
+    {
+        "year": 2005,
+        "mileage": 137872,
+        "condition": "Excellent",
+        "resale_value": 22583.2062782728
+    },
+    {
+        "year": 2001,
+        "mileage": 190927,
+        "condition": "Fair",
+        "resale_value": 16943.32685670918
+    },
+    {
+        "year": 2001,
+        "mileage": 86606,
+        "condition": "Poor",
+        "resale_value": 12024.146932836527
+    },
+    {
+        "year": 2001,
+        "mileage": 75241,
+        "condition": "Good",
+        "resale_value": 19819.80869227642
+    },
+    {
+        "year": 2015,
+        "mileage": 83683,
+        "condition": "Poor",
+        "resale_value": 18582.28350584103
+    },
+    {
+        "year": 2006,
+        "mileage": 92055,
+        "condition": "Excellent",
+        "resale_value": 20187.252813099014
+    },
+    {
+        "year": 2005,
+        "mileage": 50274,
+        "condition": "Fair",
+        "resale_value": 14367.399625703525
+    },
+    {
+        "year": 2021,
+        "mileage": 133888,
+        "condition": "Excellent",
+        "resale_value": 25698.916283795184
+    },
+    {
+        "year": 2011,
+        "mileage": 128425,
+        "condition": "Excellent",
+        "resale_value": 23234.704776397797
+    },
+    {
+        "year": 2009,
+        "mileage": 196393,
+        "condition": "Excellent",
+        "resale_value": 18518.14705357573
+    },
+    {
+        "year": 2022,
+        "mileage": 156723,
+        "condition": "Excellent",
+        "resale_value": 29169.912677904376
+    },
+    {
+        "year": 2003,
+        "mileage": 17386,
+        "condition": "Poor",
+        "resale_value": 28517.485958038495
+    },
+    {
+        "year": 2012,
+        "mileage": 113621,
+        "condition": "Poor",
+        "resale_value": 25389.99815917593
+    },
+    {
+        "year": 2011,
+        "mileage": 137035,
+        "condition": "Fair",
+        "resale_value": 22694.0365207687
+    },
+    {
+        "year": 2018,
+        "mileage": 98191,
+        "condition": "Good",
+        "resale_value": 19741.872854883186
+    },
+    {
+        "year": 2007,
+        "mileage": 62668,
+        "condition": "Poor",
+        "resale_value": 21724.62882156221
+    },
+    {
+        "year": 2008,
+        "mileage": 53388,
+        "condition": "Excellent",
+        "resale_value": 10496.181169973503
+    },
+    {
+        "year": 2002,
+        "mileage": 147706,
+        "condition": "Good",
+        "resale_value": 25059.825673305746
+    },
+    {
+        "year": 2002,
+        "mileage": 104392,
+        "condition": "Good",
+        "resale_value": 18996.54274285768
+    },
+    {
+        "year": 2009,
+        "mileage": 129802,
+        "condition": "Fair",
+        "resale_value": 20416.79421615222
+    },
+    {
+        "year": 2006,
+        "mileage": 86416,
+        "condition": "Fair",
+        "resale_value": 22761.98350222254
+    },
+    {
+        "year": 2016,
+        "mileage": 152413,
+        "condition": "Fair",
+        "resale_value": 17725.045630063032
+    },
+    {
+        "year": 2019,
+        "mileage": 40579,
+        "condition": "Excellent",
+        "resale_value": 26220.207594087577
+    },
+    {
+        "year": 2015,
+        "mileage": 82439,
+        "condition": "Excellent",
+        "resale_value": 21217.302145378493
+    },
+    {
+        "year": 2006,
+        "mileage": 57814,
+        "condition": "Excellent",
+        "resale_value": 25728.019092558614
+    },
+    {
+        "year": 2012,
+        "mileage": 99387,
+        "condition": "Fair",
+        "resale_value": 16793.22792854917
+    },
+    {
+        "year": 2016,
+        "mileage": 153106,
+        "condition": "Excellent",
+        "resale_value": 28941.410583541598
+    },
+    {
+        "year": 2006,
+        "mileage": 78621,
+        "condition": "Poor",
+        "resale_value": 22871.05854262637
+    },
+    {
+        "year": 2022,
+        "mileage": 134705,
+        "condition": "Fair",
+        "resale_value": 12510.896138844677
+    },
+    {
+        "year": 2002,
+        "mileage": 49393,
+        "condition": "Excellent",
+        "resale_value": 23316.9375186443
+    },
+    {
+        "year": 2010,
+        "mileage": 130162,
+        "condition": "Fair",
+        "resale_value": 13108.11472697973
+    },
+    {
+        "year": 2012,
+        "mileage": 191632,
+        "condition": "Excellent",
+        "resale_value": 24555.150398378595
+    },
+    {
+        "year": 2010,
+        "mileage": 139317,
+        "condition": "Fair",
+        "resale_value": 14047.970021190906
+    },
+    {
+        "year": 2021,
+        "mileage": 158060,
+        "condition": "Fair",
+        "resale_value": 19030.276581977094
+    },
+    {
+        "year": 2005,
+        "mileage": 24555,
+        "condition": "Fair",
+        "resale_value": 3278.412056702098
+    },
+    {
+        "year": 2015,
+        "mileage": 145790,
+        "condition": "Excellent",
+        "resale_value": 18424.873027711117
+    },
+    {
+        "year": 2011,
+        "mileage": 16545,
+        "condition": "Excellent",
+        "resale_value": 21861.853647660344
+    },
+    {
+        "year": 2013,
+        "mileage": 18828,
+        "condition": "Excellent",
+        "resale_value": 27555.48202716386
+    },
+    {
+        "year": 2001,
+        "mileage": 116734,
+        "condition": "Excellent",
+        "resale_value": 17963.074371800576
+    },
+    {
+        "year": 2003,
+        "mileage": 100064,
+        "condition": "Excellent",
+        "resale_value": 24321.624488780333
+    },
+    {
+        "year": 2020,
+        "mileage": 130561,
+        "condition": "Fair",
+        "resale_value": 21097.610746922364
+    },
+    {
+        "year": 2003,
+        "mileage": 59499,
+        "condition": "Good",
+        "resale_value": 18680.18914046282
+    },
+    {
+        "year": 2021,
+        "mileage": 31736,
+        "condition": "Poor",
+        "resale_value": 18981.693044682674
+    },
+    {
+        "year": 2008,
+        "mileage": 117215,
+        "condition": "Fair",
+        "resale_value": 21828.96259664212
+    },
+    {
+        "year": 2016,
+        "mileage": 78084,
+        "condition": "Fair",
+        "resale_value": 28835.38395267762
+    },
+    {
+        "year": 2022,
+        "mileage": 120382,
+        "condition": "Poor",
+        "resale_value": 23370.34834832618
+    },
+    {
+        "year": 2000,
+        "mileage": 84692,
+        "condition": "Poor",
+        "resale_value": 34621.84059218788
+    },
+    {
+        "year": 2020,
+        "mileage": 27874,
+        "condition": "Excellent",
+        "resale_value": 19256.633733008188
+    },
+    {
+        "year": 2002,
+        "mileage": 120719,
+        "condition": "Poor",
+        "resale_value": 24065.49095706551
+    },
+    {
+        "year": 2005,
+        "mileage": 157036,
+        "condition": "Poor",
+        "resale_value": 19297.514597068584
+    },
+    {
+        "year": 2001,
+        "mileage": 72668,
+        "condition": "Excellent",
+        "resale_value": 24190.20667991658
+    },
+    {
+        "year": 2016,
+        "mileage": 135633,
+        "condition": "Excellent",
+        "resale_value": 23376.562301810518
+    },
+    {
+        "year": 2021,
+        "mileage": 171292,
+        "condition": "Fair",
+        "resale_value": 31013.358309772688
+    },
+    {
+        "year": 2020,
+        "mileage": 72522,
+        "condition": "Fair",
+        "resale_value": 29914.86040349493
+    },
+    {
+        "year": 2009,
+        "mileage": 109392,
+        "condition": "Fair",
+        "resale_value": 20509.895496211528
+    },
+    {
+        "year": 2003,
+        "mileage": 72035,
+        "condition": "Excellent",
+        "resale_value": 21781.15029400064
+    },
+    {
+        "year": 2017,
+        "mileage": 131541,
+        "condition": "Good",
+        "resale_value": 21868.618004135427
+    },
+    {
+        "year": 2007,
+        "mileage": 105035,
+        "condition": "Excellent",
+        "resale_value": 25693.61445118013
+    },
+    {
+        "year": 2019,
+        "mileage": 21095,
+        "condition": "Fair",
+        "resale_value": 24336.809957199617
+    },
+    {
+        "year": 2010,
+        "mileage": 151182,
+        "condition": "Poor",
+        "resale_value": 19752.451862510137
+    },
+    {
+        "year": 2010,
+        "mileage": 59583,
+        "condition": "Poor",
+        "resale_value": 14004.039160663031
+    },
+    {
+        "year": 2006,
+        "mileage": 129553,
+        "condition": "Excellent",
+        "resale_value": 24452.564557940103
+    },
+    {
+        "year": 2001,
+        "mileage": 99513,
+        "condition": "Excellent",
+        "resale_value": 23570.73839269283
+    },
+    {
+        "year": 2003,
+        "mileage": 146011,
+        "condition": "Fair",
+        "resale_value": 20119.648630049152
+    },
+    {
+        "year": 2013,
+        "mileage": 121744,
+        "condition": "Excellent",
+        "resale_value": 20707.56825997013
+    },
+    {
+        "year": 2006,
+        "mileage": 63662,
+        "condition": "Good",
+        "resale_value": 19334.15668066639
+    },
+    {
+        "year": 2016,
+        "mileage": 108185,
+        "condition": "Excellent",
+        "resale_value": 20508.252262077065
+    },
+    {
+        "year": 2022,
+        "mileage": 21917,
+        "condition": "Excellent",
+        "resale_value": 22799.594883560363
+    },
+    {
+        "year": 2004,
+        "mileage": 38922,
+        "condition": "Good",
+        "resale_value": 22332.996884848984
+    },
+    {
+        "year": 2007,
+        "mileage": 62317,
+        "condition": "Good",
+        "resale_value": 17253.808865275423
+    },
+    {
+        "year": 2014,
+        "mileage": 191392,
+        "condition": "Good",
+        "resale_value": 21057.924368602617
+    },
+    {
+        "year": 2007,
+        "mileage": 30027,
+        "condition": "Fair",
+        "resale_value": 18565.58877884947
+    },
+    {
+        "year": 2004,
+        "mileage": 107701,
+        "condition": "Poor",
+        "resale_value": 20907.035315506277
+    },
+    {
+        "year": 2021,
+        "mileage": 45925,
+        "condition": "Excellent",
+        "resale_value": 20002.305459889198
+    },
+    {
+        "year": 2016,
+        "mileage": 71129,
+        "condition": "Poor",
+        "resale_value": 25719.13299250132
+    },
+    {
+        "year": 2012,
+        "mileage": 163273,
+        "condition": "Excellent",
+        "resale_value": 20552.08309415746
+    },
+    {
+        "year": 2007,
+        "mileage": 176853,
+        "condition": "Excellent",
+        "resale_value": 17354.200632886466
+    },
+    {
+        "year": 2021,
+        "mileage": 176107,
+        "condition": "Fair",
+        "resale_value": 18953.359080447917
+    },
+    {
+        "year": 2014,
+        "mileage": 163383,
+        "condition": "Fair",
+        "resale_value": 24565.3294618356
+    },
+    {
+        "year": 2008,
+        "mileage": 157084,
+        "condition": "Poor",
+        "resale_value": 21285.5995829069
+    },
+    {
+        "year": 2020,
+        "mileage": 16861,
+        "condition": "Excellent",
+        "resale_value": 27832.118146114964
+    },
+    {
+        "year": 2017,
+        "mileage": 88501,
+        "condition": "Good",
+        "resale_value": 19516.320811230547
+    },
+    {
+        "year": 2013,
+        "mileage": 34886,
+        "condition": "Fair",
+        "resale_value": 17913.12270185346
+    },
+    {
+        "year": 2021,
+        "mileage": 138439,
+        "condition": "Excellent",
+        "resale_value": 22945.66250277278
+    },
+    {
+        "year": 2008,
+        "mileage": 196515,
+        "condition": "Fair",
+        "resale_value": 28796.231635073287
+    },
+    {
+        "year": 2009,
+        "mileage": 143740,
+        "condition": "Fair",
+        "resale_value": 17941.733389773817
+    },
+    {
+        "year": 2012,
+        "mileage": 138863,
+        "condition": "Poor",
+        "resale_value": 24111.75967376601
+    },
+    {
+        "year": 2008,
+        "mileage": 183065,
+        "condition": "Good",
+        "resale_value": 24849.92056924091
+    },
+    {
+        "year": 2007,
+        "mileage": 72305,
+        "condition": "Poor",
+        "resale_value": 24758.89333552201
+    },
+    {
+        "year": 2007,
+        "mileage": 156287,
+        "condition": "Poor",
+        "resale_value": 24082.44886735805
+    },
+    {
+        "year": 2008,
+        "mileage": 80890,
+        "condition": "Good",
+        "resale_value": 13409.874446340724
+    },
+    {
+        "year": 2022,
+        "mileage": 142364,
+        "condition": "Fair",
+        "resale_value": 18371.684707193293
+    },
+    {
+        "year": 2001,
+        "mileage": 154368,
+        "condition": "Excellent",
+        "resale_value": 16445.96638100168
+    },
+    {
+        "year": 2019,
+        "mileage": 38835,
+        "condition": "Good",
+        "resale_value": 21879.64250656307
+    },
+    {
+        "year": 2006,
+        "mileage": 162931,
+        "condition": "Excellent",
+        "resale_value": 23444.980033831573
+    },
+    {
+        "year": 2007,
+        "mileage": 103609,
+        "condition": "Excellent",
+        "resale_value": 12968.288152309484
+    },
+    {
+        "year": 2009,
+        "mileage": 53045,
+        "condition": "Excellent",
+        "resale_value": 22041.577589385088
+    },
+    {
+        "year": 2016,
+        "mileage": 10342,
+        "condition": "Excellent",
+        "resale_value": 31316.91825353745
+    },
+    {
+        "year": 2021,
+        "mileage": 10786,
+        "condition": "Good",
+        "resale_value": 17926.045470062436
+    },
+    {
+        "year": 2003,
+        "mileage": 63623,
+        "condition": "Good",
+        "resale_value": 16791.353794628893
+    },
+    {
+        "year": 2001,
+        "mileage": 150954,
+        "condition": "Fair",
+        "resale_value": 17038.80508362716
+    },
+    {
+        "year": 2020,
+        "mileage": 129666,
+        "condition": "Excellent",
+        "resale_value": 25660.988309026234
+    },
+    {
+        "year": 2021,
+        "mileage": 197838,
+        "condition": "Excellent",
+        "resale_value": 24068.32436250755
+    },
+    {
+        "year": 2011,
+        "mileage": 183081,
+        "condition": "Fair",
+        "resale_value": 20451.430756885708
+    },
+    {
+        "year": 2001,
+        "mileage": 114434,
+        "condition": "Fair",
+        "resale_value": 16669.89240266612
+    },
+    {
+        "year": 2011,
+        "mileage": 162930,
+        "condition": "Fair",
+        "resale_value": 22769.30530555541
+    },
+    {
+        "year": 2006,
+        "mileage": 189283,
+        "condition": "Fair",
+        "resale_value": 27747.25221378995
+    },
+    {
+        "year": 2014,
+        "mileage": 92203,
+        "condition": "Good",
+        "resale_value": 18168.074627381473
+    },
+    {
+        "year": 2018,
+        "mileage": 29839,
+        "condition": "Fair",
+        "resale_value": 21938.637349740256
+    },
+    {
+        "year": 2000,
+        "mileage": 134539,
+        "condition": "Good",
+        "resale_value": 24989.841423125217
+    },
+    {
+        "year": 2018,
+        "mileage": 95905,
+        "condition": "Fair",
+        "resale_value": 14047.26545111804
+    },
+    {
+        "year": 2022,
+        "mileage": 159225,
+        "condition": "Poor",
+        "resale_value": 15485.239346494765
+    },
+    {
+        "year": 2010,
+        "mileage": 100478,
+        "condition": "Excellent",
+        "resale_value": 20034.01604524692
+    },
+    {
+        "year": 2012,
+        "mileage": 189093,
+        "condition": "Fair",
+        "resale_value": 21024.344327838266
+    },
+    {
+        "year": 2020,
+        "mileage": 156654,
+        "condition": "Fair",
+        "resale_value": 23557.64600459457
+    },
+    {
+        "year": 2002,
+        "mileage": 57612,
+        "condition": "Excellent",
+        "resale_value": 23367.80385195262
+    },
+    {
+        "year": 2004,
+        "mileage": 36723,
+        "condition": "Good",
+        "resale_value": 22288.005666624416
+    },
+    {
+        "year": 2005,
+        "mileage": 54738,
+        "condition": "Good",
+        "resale_value": 18520.065090799835
+    },
+    {
+        "year": 2021,
+        "mileage": 186959,
+        "condition": "Fair",
+        "resale_value": 21596.742257537513
+    },
+    {
+        "year": 2015,
+        "mileage": 175539,
+        "condition": "Excellent",
+        "resale_value": 27121.749392957463
+    },
+    {
+        "year": 2001,
+        "mileage": 176725,
+        "condition": "Good",
+        "resale_value": 21398.80139465123
+    },
+    {
+        "year": 2008,
+        "mileage": 39417,
+        "condition": "Fair",
+        "resale_value": 25482.380777798906
+    },
+    {
+        "year": 2015,
+        "mileage": 109126,
+        "condition": "Poor",
+        "resale_value": 23480.739313904738
+    },
+    {
+        "year": 2012,
+        "mileage": 172196,
+        "condition": "Poor",
+        "resale_value": 24905.980005104553
+    },
+    {
+        "year": 2020,
+        "mileage": 33345,
+        "condition": "Excellent",
+        "resale_value": 20448.406520621924
+    },
+    {
+        "year": 2016,
+        "mileage": 192448,
+        "condition": "Poor",
+        "resale_value": 21132.74174653842
+    },
+    {
+        "year": 2019,
+        "mileage": 198422,
+        "condition": "Good",
+        "resale_value": 12953.006519266604
+    },
+    {
+        "year": 2017,
+        "mileage": 158343,
+        "condition": "Excellent",
+        "resale_value": 21093.701776181904
+    },
+    {
+        "year": 2019,
+        "mileage": 65996,
+        "condition": "Poor",
+        "resale_value": 14169.023491616195
+    },
+    {
+        "year": 2009,
+        "mileage": 15636,
+        "condition": "Poor",
+        "resale_value": 15122.588422473527
+    },
+    {
+        "year": 2018,
+        "mileage": 13761,
+        "condition": "Fair",
+        "resale_value": 18059.77167894963
+    },
+    {
+        "year": 2017,
+        "mileage": 27803,
+        "condition": "Good",
+        "resale_value": 20281.749832228237
+    },
+    {
+        "year": 2009,
+        "mileage": 161743,
+        "condition": "Fair",
+        "resale_value": 14170.837441005047
+    },
+    {
+        "year": 2022,
+        "mileage": 188289,
+        "condition": "Good",
+        "resale_value": 17432.139104662503
+    },
+    {
+        "year": 2011,
+        "mileage": 98138,
+        "condition": "Good",
+        "resale_value": 22605.32233688781
+    },
+    {
+        "year": 2006,
+        "mileage": 98112,
+        "condition": "Poor",
+        "resale_value": 28749.20311634624
+    },
+    {
+        "year": 2004,
+        "mileage": 18229,
+        "condition": "Poor",
+        "resale_value": 27726.65677157553
+    },
+    {
+        "year": 2015,
+        "mileage": 172534,
+        "condition": "Excellent",
+        "resale_value": 11678.01275865731
+    },
+    {
+        "year": 2002,
+        "mileage": 122116,
+        "condition": "Poor",
+        "resale_value": 16967.287957908793
+    },
+    {
+        "year": 2018,
+        "mileage": 28245,
+        "condition": "Good",
+        "resale_value": 16942.30081600818
+    },
+    {
+        "year": 2013,
+        "mileage": 150981,
+        "condition": "Excellent",
+        "resale_value": 14376.85016731375
+    },
+    {
+        "year": 2008,
+        "mileage": 68085,
+        "condition": "Excellent",
+        "resale_value": 20203.386403664812
+    },
+    {
+        "year": 2004,
+        "mileage": 123560,
+        "condition": "Excellent",
+        "resale_value": 32281.43356623007
+    },
+    {
+        "year": 2018,
+        "mileage": 33457,
+        "condition": "Excellent",
+        "resale_value": 25388.641303990786
+    },
+    {
+        "year": 2000,
+        "mileage": 104349,
+        "condition": "Good",
+        "resale_value": 15641.20201317525
+    },
+    {
+        "year": 2021,
+        "mileage": 139087,
+        "condition": "Excellent",
+        "resale_value": 22144.95578483275
+    },
+    {
+        "year": 2022,
+        "mileage": 143053,
+        "condition": "Excellent",
+        "resale_value": 12958.222087794993
+    },
+    {
+        "year": 2018,
+        "mileage": 84841,
+        "condition": "Excellent",
+        "resale_value": 26379.58783197657
+    },
+    {
+        "year": 2006,
+        "mileage": 71808,
+        "condition": "Excellent",
+        "resale_value": 18800.795616790514
+    },
+    {
+        "year": 2002,
+        "mileage": 64553,
+        "condition": "Fair",
+        "resale_value": 21874.65066167276
+    },
+    {
+        "year": 2018,
+        "mileage": 195220,
+        "condition": "Good",
+        "resale_value": 22360.716336009915
+    },
+    {
+        "year": 2008,
+        "mileage": 152859,
+        "condition": "Excellent",
+        "resale_value": 14487.136519370495
+    },
+    {
+        "year": 2011,
+        "mileage": 135119,
+        "condition": "Fair",
+        "resale_value": 18250.558892581612
+    },
+    {
+        "year": 2007,
+        "mileage": 30089,
+        "condition": "Poor",
+        "resale_value": 17823.86160025193
+    },
+    {
+        "year": 2018,
+        "mileage": 50969,
+        "condition": "Poor",
+        "resale_value": 28446.17260473386
+    },
+    {
+        "year": 2006,
+        "mileage": 139070,
+        "condition": "Good",
+        "resale_value": 22424.581751088866
+    },
+    {
+        "year": 2008,
+        "mileage": 81960,
+        "condition": "Excellent",
+        "resale_value": 14667.967735984133
+    },
+    {
+        "year": 2008,
+        "mileage": 18754,
+        "condition": "Excellent",
+        "resale_value": 22404.49479541409
+    },
+    {
+        "year": 2016,
+        "mileage": 188272,
+        "condition": "Good",
+        "resale_value": 16360.617812589979
+    },
+    {
+        "year": 2006,
+        "mileage": 74752,
+        "condition": "Good",
+        "resale_value": 9314.693789022827
+    },
+    {
+        "year": 2018,
+        "mileage": 47071,
+        "condition": "Fair",
+        "resale_value": 17740.989939252482
+    },
+    {
+        "year": 2015,
+        "mileage": 39688,
+        "condition": "Fair",
+        "resale_value": 10748.711404304699
+    },
+    {
+        "year": 2016,
+        "mileage": 55027,
+        "condition": "Excellent",
+        "resale_value": 20982.810405219436
+    },
+    {
+        "year": 2010,
+        "mileage": 179480,
+        "condition": "Poor",
+        "resale_value": 24778.996481174712
+    },
+    {
+        "year": 2001,
+        "mileage": 149120,
+        "condition": "Poor",
+        "resale_value": 21720.569299350842
+    },
+    {
+        "year": 2004,
+        "mileage": 81004,
+        "condition": "Fair",
+        "resale_value": 20338.085541817298
+    },
+    {
+        "year": 2012,
+        "mileage": 41048,
+        "condition": "Poor",
+        "resale_value": 15596.616960562367
+    },
+    {
+        "year": 2003,
+        "mileage": 91592,
+        "condition": "Good",
+        "resale_value": 7201.639248539224
+    },
+    {
+        "year": 2016,
+        "mileage": 194985,
+        "condition": "Good",
+        "resale_value": 15582.26906590278
+    },
+    {
+        "year": 2020,
+        "mileage": 153387,
+        "condition": "Excellent",
+        "resale_value": 18154.490406717116
+    },
+    {
+        "year": 2013,
+        "mileage": 14967,
+        "condition": "Fair",
+        "resale_value": 11384.024760159771
+    },
+    {
+        "year": 2021,
+        "mileage": 118709,
+        "condition": "Good",
+        "resale_value": 23102.430933129996
+    },
+    {
+        "year": 2000,
+        "mileage": 124602,
+        "condition": "Fair",
+        "resale_value": 12784.438948836128
+    },
+    {
+        "year": 2011,
+        "mileage": 141520,
+        "condition": "Poor",
+        "resale_value": 18318.267965159997
+    },
+    {
+        "year": 2016,
+        "mileage": 121600,
+        "condition": "Poor",
+        "resale_value": 25292.570383686558
+    },
+    {
+        "year": 2020,
+        "mileage": 166611,
+        "condition": "Good",
+        "resale_value": 19327.96779419848
+    },
+    {
+        "year": 2014,
+        "mileage": 62251,
+        "condition": "Good",
+        "resale_value": 28127.719102575993
+    },
+    {
+        "year": 2016,
+        "mileage": 138475,
+        "condition": "Poor",
+        "resale_value": 23173.195961314374
+    },
+    {
+        "year": 2004,
+        "mileage": 92145,
+        "condition": "Good",
+        "resale_value": 21948.87332409237
+    },
+    {
+        "year": 2021,
+        "mileage": 15175,
+        "condition": "Poor",
+        "resale_value": 18725.41588151151
+    },
+    {
+        "year": 2006,
+        "mileage": 41480,
+        "condition": "Fair",
+        "resale_value": 13559.39033142689
+    },
+    {
+        "year": 2012,
+        "mileage": 171119,
+        "condition": "Good",
+        "resale_value": 13971.803135534159
+    },
+    {
+        "year": 2008,
+        "mileage": 59170,
+        "condition": "Fair",
+        "resale_value": 19291.89320369298
+    },
+    {
+        "year": 2001,
+        "mileage": 124210,
+        "condition": "Good",
+        "resale_value": 18847.014989410498
+    },
+    {
+        "year": 2009,
+        "mileage": 22621,
+        "condition": "Poor",
+        "resale_value": 23358.518684145365
+    },
+    {
+        "year": 2006,
+        "mileage": 57302,
+        "condition": "Excellent",
+        "resale_value": 15248.03863643483
+    },
+    {
+        "year": 2013,
+        "mileage": 101177,
+        "condition": "Excellent",
+        "resale_value": 24572.624727858467
+    },
+    {
+        "year": 2001,
+        "mileage": 139782,
+        "condition": "Good",
+        "resale_value": 11372.047318351291
+    },
+    {
+        "year": 2022,
+        "mileage": 78646,
+        "condition": "Excellent",
+        "resale_value": 23406.923589579037
+    },
+    {
+        "year": 2000,
+        "mileage": 76929,
+        "condition": "Good",
+        "resale_value": 22690.94457970896
+    },
+    {
+        "year": 2022,
+        "mileage": 156228,
+        "condition": "Good",
+        "resale_value": 16464.183955508444
+    },
+    {
+        "year": 2016,
+        "mileage": 53955,
+        "condition": "Poor",
+        "resale_value": 17188.064022016348
+    },
+    {
+        "year": 2007,
+        "mileage": 140307,
+        "condition": "Fair",
+        "resale_value": 20248.10548729821
+    },
+    {
+        "year": 2020,
+        "mileage": 77993,
+        "condition": "Excellent",
+        "resale_value": 25001.5820978692
+    },
+    {
+        "year": 2020,
+        "mileage": 87097,
+        "condition": "Poor",
+        "resale_value": 15457.325260420828
+    },
+    {
+        "year": 2019,
+        "mileage": 155459,
+        "condition": "Good",
+        "resale_value": 24196.873021719537
+    },
+    {
+        "year": 2020,
+        "mileage": 15542,
+        "condition": "Fair",
+        "resale_value": 29331.59701883699
+    },
+    {
+        "year": 2004,
+        "mileage": 121154,
+        "condition": "Fair",
+        "resale_value": 22642.334549737305
+    },
+    {
+        "year": 2001,
+        "mileage": 21056,
+        "condition": "Excellent",
+        "resale_value": 16694.71467640678
+    },
+    {
+        "year": 2013,
+        "mileage": 42924,
+        "condition": "Poor",
+        "resale_value": 16385.054530984213
+    },
+    {
+        "year": 2006,
+        "mileage": 161998,
+        "condition": "Good",
+        "resale_value": 21533.664030277534
+    },
+    {
+        "year": 2002,
+        "mileage": 67160,
+        "condition": "Good",
+        "resale_value": 17122.9053966813
+    },
+    {
+        "year": 2020,
+        "mileage": 85747,
+        "condition": "Excellent",
+        "resale_value": 10728.548480888463
+    },
+    {
+        "year": 2003,
+        "mileage": 95190,
+        "condition": "Excellent",
+        "resale_value": 25259.3307835694
+    },
+    {
+        "year": 2012,
+        "mileage": 131565,
+        "condition": "Poor",
+        "resale_value": 26544.4432248081
+    },
+    {
+        "year": 2016,
+        "mileage": 83131,
+        "condition": "Good",
+        "resale_value": 10054.8959946468
+    },
+    {
+        "year": 2010,
+        "mileage": 182671,
+        "condition": "Good",
+        "resale_value": 28855.747881046762
+    },
+    {
+        "year": 2004,
+        "mileage": 167162,
+        "condition": "Poor",
+        "resale_value": 21450.873588147377
+    },
+    {
+        "year": 2003,
+        "mileage": 130326,
+        "condition": "Good",
+        "resale_value": 20068.83688189251
+    },
+    {
+        "year": 2017,
+        "mileage": 12977,
+        "condition": "Fair",
+        "resale_value": 19459.443013488035
+    },
+    {
+        "year": 2003,
+        "mileage": 180993,
+        "condition": "Excellent",
+        "resale_value": 25435.645973326664
+    },
+    {
+        "year": 2006,
+        "mileage": 186998,
+        "condition": "Excellent",
+        "resale_value": 17822.798591219296
+    },
+    {
+        "year": 2019,
+        "mileage": 75616,
+        "condition": "Poor",
+        "resale_value": 24999.009618362415
+    },
+    {
+        "year": 2012,
+        "mileage": 62867,
+        "condition": "Poor",
+        "resale_value": 20584.635211431545
+    },
+    {
+        "year": 2001,
+        "mileage": 98760,
+        "condition": "Poor",
+        "resale_value": 17418.127017523624
+    },
+    {
+        "year": 2014,
+        "mileage": 118420,
+        "condition": "Poor",
+        "resale_value": 15125.556727079002
+    },
+    {
+        "year": 2015,
+        "mileage": 106137,
+        "condition": "Poor",
+        "resale_value": 8040.971801500145
+    },
+    {
+        "year": 2015,
+        "mileage": 161186,
+        "condition": "Excellent",
+        "resale_value": 21610.40453217857
+    },
+    {
+        "year": 2001,
+        "mileage": 167849,
+        "condition": "Fair",
+        "resale_value": 20781.060145115833
+    },
+    {
+        "year": 2021,
+        "mileage": 84111,
+        "condition": "Fair",
+        "resale_value": 17507.629205781144
+    },
+    {
+        "year": 2004,
+        "mileage": 80486,
+        "condition": "Good",
+        "resale_value": 15131.808858355127
+    },
+    {
+        "year": 2012,
+        "mileage": 53195,
+        "condition": "Good",
+        "resale_value": 24750.68899779863
+    },
+    {
+        "year": 2008,
+        "mileage": 64263,
+        "condition": "Poor",
+        "resale_value": 20974.953133272862
+    },
+    {
+        "year": 2006,
+        "mileage": 149347,
+        "condition": "Poor",
+        "resale_value": 15781.158521559737
+    },
+    {
+        "year": 2015,
+        "mileage": 164340,
+        "condition": "Good",
+        "resale_value": 25239.86125945839
+    },
+    {
+        "year": 2017,
+        "mileage": 173717,
+        "condition": "Poor",
+        "resale_value": 12863.93247404903
+    },
+    {
+        "year": 2013,
+        "mileage": 65093,
+        "condition": "Poor",
+        "resale_value": 17771.24942855018
+    },
+    {
+        "year": 2014,
+        "mileage": 18286,
+        "condition": "Fair",
+        "resale_value": 20171.1984439662
+    },
+    {
+        "year": 2007,
+        "mileage": 157637,
+        "condition": "Fair",
+        "resale_value": 19581.118081452347
+    },
+    {
+        "year": 2009,
+        "mileage": 92002,
+        "condition": "Poor",
+        "resale_value": 26169.338844665413
+    },
+    {
+        "year": 2022,
+        "mileage": 83820,
+        "condition": "Good",
+        "resale_value": 9339.771654357324
+    },
+    {
+        "year": 2003,
+        "mileage": 26048,
+        "condition": "Excellent",
+        "resale_value": 22599.192781644557
+    },
+    {
+        "year": 2012,
+        "mileage": 180667,
+        "condition": "Excellent",
+        "resale_value": 26674.161328266768
+    },
+    {
+        "year": 2006,
+        "mileage": 70294,
+        "condition": "Poor",
+        "resale_value": 26455.01553137335
+    },
+    {
+        "year": 2011,
+        "mileage": 115294,
+        "condition": "Good",
+        "resale_value": 20017.086827195602
+    },
+    {
+        "year": 2001,
+        "mileage": 81619,
+        "condition": "Fair",
+        "resale_value": 12664.61039279365
+    },
+    {
+        "year": 2019,
+        "mileage": 134638,
+        "condition": "Excellent",
+        "resale_value": 11615.750213403442
+    },
+    {
+        "year": 2008,
+        "mileage": 135524,
+        "condition": "Excellent",
+        "resale_value": 20649.447974589737
+    },
+    {
+        "year": 2020,
+        "mileage": 77188,
+        "condition": "Excellent",
+        "resale_value": 23738.53143264739
+    },
+    {
+        "year": 2016,
+        "mileage": 47541,
+        "condition": "Excellent",
+        "resale_value": 23415.537352287804
+    },
+    {
+        "year": 2003,
+        "mileage": 106500,
+        "condition": "Fair",
+        "resale_value": 20425.272614437476
+    },
+    {
+        "year": 2002,
+        "mileage": 25671,
+        "condition": "Good",
+        "resale_value": 29284.325931042556
+    },
+    {
+        "year": 2011,
+        "mileage": 27610,
+        "condition": "Poor",
+        "resale_value": 21220.8466248492
+    },
+    {
+        "year": 2005,
+        "mileage": 110937,
+        "condition": "Poor",
+        "resale_value": 21146.055604300742
+    },
+    {
+        "year": 2019,
+        "mileage": 10046,
+        "condition": "Good",
+        "resale_value": 24694.749263604106
+    },
+    {
+        "year": 2022,
+        "mileage": 40446,
+        "condition": "Poor",
+        "resale_value": 23839.7409908887
+    },
+    {
+        "year": 2002,
+        "mileage": 69089,
+        "condition": "Good",
+        "resale_value": 13281.618532034763
+    },
+    {
+        "year": 2013,
+        "mileage": 85611,
+        "condition": "Excellent",
+        "resale_value": 20838.49080794211
+    },
+    {
+        "year": 2012,
+        "mileage": 69904,
+        "condition": "Excellent",
+        "resale_value": 18255.48516359265
+    },
+    {
+        "year": 2008,
+        "mileage": 192535,
+        "condition": "Excellent",
+        "resale_value": 15524.790661175994
+    },
+    {
+        "year": 2006,
+        "mileage": 181222,
+        "condition": "Good",
+        "resale_value": 21194.20275443918
+    },
+    {
+        "year": 2005,
+        "mileage": 54981,
+        "condition": "Fair",
+        "resale_value": 21024.08103213112
+    },
+    {
+        "year": 2001,
+        "mileage": 22987,
+        "condition": "Excellent",
+        "resale_value": 24459.633406140936
+    },
+    {
+        "year": 2001,
+        "mileage": 147196,
+        "condition": "Poor",
+        "resale_value": 18644.430712842754
+    },
+    {
+        "year": 2010,
+        "mileage": 178302,
+        "condition": "Good",
+        "resale_value": 23047.093362172935
+    },
+    {
+        "year": 2013,
+        "mileage": 131333,
+        "condition": "Excellent",
+        "resale_value": 20990.55603568517
+    },
+    {
+        "year": 2017,
+        "mileage": 130843,
+        "condition": "Poor",
+        "resale_value": 16032.525926469189
+    },
+    {
+        "year": 2016,
+        "mileage": 188264,
+        "condition": "Excellent",
+        "resale_value": 14826.803351119917
+    },
+    {
+        "year": 2015,
+        "mileage": 12769,
+        "condition": "Poor",
+        "resale_value": 20522.525225223944
+    },
+    {
+        "year": 2003,
+        "mileage": 59136,
+        "condition": "Fair",
+        "resale_value": 13934.924388488944
+    },
+    {
+        "year": 2016,
+        "mileage": 178179,
+        "condition": "Poor",
+        "resale_value": 16521.123742270844
+    },
+    {
+        "year": 2008,
+        "mileage": 141751,
+        "condition": "Good",
+        "resale_value": 10643.14826595542
+    },
+    {
+        "year": 2001,
+        "mileage": 43242,
+        "condition": "Good",
+        "resale_value": 25013.17599241802
+    },
+    {
+        "year": 2008,
+        "mileage": 92991,
+        "condition": "Fair",
+        "resale_value": 21672.563864497886
+    },
+    {
+        "year": 2016,
+        "mileage": 84537,
+        "condition": "Good",
+        "resale_value": 27135.808141431946
+    },
+    {
+        "year": 2014,
+        "mileage": 119948,
+        "condition": "Excellent",
+        "resale_value": 12619.895396649117
+    },
+    {
+        "year": 2012,
+        "mileage": 118550,
+        "condition": "Poor",
+        "resale_value": 15557.162574422711
+    },
+    {
+        "year": 2022,
+        "mileage": 188723,
+        "condition": "Poor",
+        "resale_value": 13963.408561483757
+    },
+    {
+        "year": 2001,
+        "mileage": 47757,
+        "condition": "Poor",
+        "resale_value": 18575.14315999278
+    },
+    {
+        "year": 2004,
+        "mileage": 183156,
+        "condition": "Good",
+        "resale_value": 24975.508188358155
+    },
+    {
+        "year": 2020,
+        "mileage": 177605,
+        "condition": "Poor",
+        "resale_value": 19047.06188092033
+    },
+    {
+        "year": 2021,
+        "mileage": 55738,
+        "condition": "Good",
+        "resale_value": 9366.019348117725
+    },
+    {
+        "year": 2008,
+        "mileage": 140450,
+        "condition": "Good",
+        "resale_value": 18542.80405976878
+    },
+    {
+        "year": 2009,
+        "mileage": 41874,
+        "condition": "Good",
+        "resale_value": 24621.13516265481
+    },
+    {
+        "year": 2002,
+        "mileage": 44022,
+        "condition": "Fair",
+        "resale_value": 19225.662386764256
+    },
+    {
+        "year": 2011,
+        "mileage": 121510,
+        "condition": "Good",
+        "resale_value": 11182.854446147907
+    },
+    {
+        "year": 2005,
+        "mileage": 76108,
+        "condition": "Fair",
+        "resale_value": 22597.494168109188
+    },
+    {
+        "year": 2004,
+        "mileage": 149881,
+        "condition": "Fair",
+        "resale_value": 29053.689042400943
+    },
+    {
+        "year": 2013,
+        "mileage": 62132,
+        "condition": "Excellent",
+        "resale_value": 19497.16016072985
+    },
+    {
+        "year": 2008,
+        "mileage": 135424,
+        "condition": "Poor",
+        "resale_value": 8817.100433785254
+    },
+    {
+        "year": 2022,
+        "mileage": 189661,
+        "condition": "Good",
+        "resale_value": 20540.271639239865
+    },
+    {
+        "year": 2001,
+        "mileage": 56577,
+        "condition": "Excellent",
+        "resale_value": 17572.01526027184
+    },
+    {
+        "year": 2014,
+        "mileage": 149156,
+        "condition": "Good",
+        "resale_value": 15306.667808636343
+    },
+    {
+        "year": 2018,
+        "mileage": 109908,
+        "condition": "Excellent",
+        "resale_value": 23175.91174547915
+    },
+    {
+        "year": 2010,
+        "mileage": 193622,
+        "condition": "Good",
+        "resale_value": 24578.305944956373
+    },
+    {
+        "year": 2018,
+        "mileage": 70392,
+        "condition": "Fair",
+        "resale_value": 16462.427094375595
+    },
+    {
+        "year": 2021,
+        "mileage": 172129,
+        "condition": "Poor",
+        "resale_value": 13610.603212393806
+    },
+    {
+        "year": 2011,
+        "mileage": 139766,
+        "condition": "Fair",
+        "resale_value": 16334.281563024848
+    },
+    {
+        "year": 2017,
+        "mileage": 135286,
+        "condition": "Poor",
+        "resale_value": 19587.942041799655
+    },
+    {
+        "year": 2001,
+        "mileage": 78051,
+        "condition": "Excellent",
+        "resale_value": 24992.825925825986
+    },
+    {
+        "year": 2015,
+        "mileage": 23811,
+        "condition": "Good",
+        "resale_value": 18625.668798736002
+    },
+    {
+        "year": 2020,
+        "mileage": 55760,
+        "condition": "Fair",
+        "resale_value": 21857.372867266793
+    },
+    {
+        "year": 2005,
+        "mileage": 186493,
+        "condition": "Excellent",
+        "resale_value": 14204.44779261751
+    },
+    {
+        "year": 2021,
+        "mileage": 17193,
+        "condition": "Excellent",
+        "resale_value": 22501.987607688094
+    },
+    {
+        "year": 2009,
+        "mileage": 60722,
+        "condition": "Fair",
+        "resale_value": 16823.46387537202
+    },
+    {
+        "year": 2005,
+        "mileage": 91138,
+        "condition": "Good",
+        "resale_value": 16848.036408102857
+    },
+    {
+        "year": 2003,
+        "mileage": 133599,
+        "condition": "Fair",
+        "resale_value": 7994.8829014223775
+    },
+    {
+        "year": 2014,
+        "mileage": 138664,
+        "condition": "Excellent",
+        "resale_value": 21413.996134224293
+    },
+    {
+        "year": 2011,
+        "mileage": 14225,
+        "condition": "Poor",
+        "resale_value": 28278.755387436504
+    },
+    {
+        "year": 2015,
+        "mileage": 187718,
+        "condition": "Fair",
+        "resale_value": 29380.43784299931
+    },
+    {
+        "year": 2019,
+        "mileage": 103070,
+        "condition": "Fair",
+        "resale_value": 6187.756656538631
+    },
+    {
+        "year": 2008,
+        "mileage": 58737,
+        "condition": "Poor",
+        "resale_value": 17210.494667621755
+    },
+    {
+        "year": 2000,
+        "mileage": 127185,
+        "condition": "Excellent",
+        "resale_value": 21723.000954312025
+    },
+    {
+        "year": 2019,
+        "mileage": 118740,
+        "condition": "Good",
+        "resale_value": 18682.56094948471
+    },
+    {
+        "year": 2003,
+        "mileage": 32512,
+        "condition": "Good",
+        "resale_value": 24114.09146890523
+    },
+    {
+        "year": 2012,
+        "mileage": 173353,
+        "condition": "Excellent",
+        "resale_value": 16648.552734032917
+    },
+    {
+        "year": 2009,
+        "mileage": 74758,
+        "condition": "Fair",
+        "resale_value": 13744.397712989747
+    },
+    {
+        "year": 2003,
+        "mileage": 175093,
+        "condition": "Poor",
+        "resale_value": 23194.637377200575
+    },
+    {
+        "year": 2017,
+        "mileage": 70460,
+        "condition": "Good",
+        "resale_value": 16282.954458053138
+    },
+    {
+        "year": 2012,
+        "mileage": 160273,
+        "condition": "Fair",
+        "resale_value": 21288.133048841148
+    },
+    {
+        "year": 2004,
+        "mileage": 140398,
+        "condition": "Excellent",
+        "resale_value": 25424.491383134115
+    },
+    {
+        "year": 2004,
+        "mileage": 20935,
+        "condition": "Excellent",
+        "resale_value": 22631.368845486908
+    },
+    {
+        "year": 2003,
+        "mileage": 177557,
+        "condition": "Good",
+        "resale_value": 23767.448370186576
+    },
+    {
+        "year": 2022,
+        "mileage": 52508,
+        "condition": "Fair",
+        "resale_value": 21045.531495132214
+    },
+    {
+        "year": 2000,
+        "mileage": 10099,
+        "condition": "Fair",
+        "resale_value": 20829.154269008584
+    },
+    {
+        "year": 2016,
+        "mileage": 154295,
+        "condition": "Good",
+        "resale_value": 15838.978530551001
+    },
+    {
+        "year": 2002,
+        "mileage": 96178,
+        "condition": "Poor",
+        "resale_value": 20641.781772373273
+    },
+    {
+        "year": 2015,
+        "mileage": 151950,
+        "condition": "Poor",
+        "resale_value": 18058.235641008272
+    },
+    {
+        "year": 2009,
+        "mileage": 156848,
+        "condition": "Poor",
+        "resale_value": 24288.773101893992
+    },
+    {
+        "year": 2008,
+        "mileage": 19139,
+        "condition": "Excellent",
+        "resale_value": 13423.547650311424
+    },
+    {
+        "year": 2002,
+        "mileage": 160928,
+        "condition": "Good",
+        "resale_value": 23726.89531536495
+    },
+    {
+        "year": 2016,
+        "mileage": 127531,
+        "condition": "Poor",
+        "resale_value": 13065.9458306048
+    },
+    {
+        "year": 2006,
+        "mileage": 175169,
+        "condition": "Poor",
+        "resale_value": 22602.5103023845
+    },
+    {
+        "year": 2020,
+        "mileage": 60295,
+        "condition": "Good",
+        "resale_value": 20907.49194632476
+    },
+    {
+        "year": 2020,
+        "mileage": 121366,
+        "condition": "Good",
+        "resale_value": 21969.67555549648
+    },
+    {
+        "year": 2014,
+        "mileage": 68562,
+        "condition": "Good",
+        "resale_value": 18904.983811548802
+    },
+    {
+        "year": 2009,
+        "mileage": 33924,
+        "condition": "Poor",
+        "resale_value": 24552.151549673086
+    },
+    {
+        "year": 2013,
+        "mileage": 65883,
+        "condition": "Good",
+        "resale_value": 23520.717968472065
+    },
+    {
+        "year": 2021,
+        "mileage": 72117,
+        "condition": "Good",
+        "resale_value": 20557.00697328249
+    },
+    {
+        "year": 2018,
+        "mileage": 123743,
+        "condition": "Poor",
+        "resale_value": 13427.322421653776
+    },
+    {
+        "year": 2020,
+        "mileage": 134391,
+        "condition": "Excellent",
+        "resale_value": 16844.05834044117
+    },
+    {
+        "year": 2007,
+        "mileage": 134763,
+        "condition": "Excellent",
+        "resale_value": 16239.374034128596
+    },
+    {
+        "year": 2000,
+        "mileage": 142089,
+        "condition": "Fair",
+        "resale_value": 22627.300840016804
+    },
+    {
+        "year": 2021,
+        "mileage": 107298,
+        "condition": "Good",
+        "resale_value": 19353.950035131173
+    },
+    {
+        "year": 2004,
+        "mileage": 40128,
+        "condition": "Fair",
+        "resale_value": 21222.33218803863
+    },
+    {
+        "year": 2001,
+        "mileage": 144904,
+        "condition": "Fair",
+        "resale_value": 24944.885814555422
+    },
+    {
+        "year": 2004,
+        "mileage": 113509,
+        "condition": "Good",
+        "resale_value": 22021.20809480528
+    },
+    {
+        "year": 2001,
+        "mileage": 75488,
+        "condition": "Poor",
+        "resale_value": 23113.66622254195
+    },
+    {
+        "year": 2011,
+        "mileage": 183742,
+        "condition": "Good",
+        "resale_value": 27354.105426088052
+    },
+    {
+        "year": 2002,
+        "mileage": 86100,
+        "condition": "Excellent",
+        "resale_value": 21644.811740512127
+    },
+    {
+        "year": 2021,
+        "mileage": 21046,
+        "condition": "Fair",
+        "resale_value": 22349.638299115228
+    },
+    {
+        "year": 2021,
+        "mileage": 82881,
+        "condition": "Excellent",
+        "resale_value": 27632.00123579992
+    },
+    {
+        "year": 2005,
+        "mileage": 191721,
+        "condition": "Fair",
+        "resale_value": 11255.599608035747
+    },
+    {
+        "year": 2019,
+        "mileage": 85923,
+        "condition": "Fair",
+        "resale_value": 26766.686402330426
+    },
+    {
+        "year": 2012,
+        "mileage": 136964,
+        "condition": "Excellent",
+        "resale_value": 18997.10080227691
+    },
+    {
+        "year": 2004,
+        "mileage": 72098,
+        "condition": "Excellent",
+        "resale_value": 20412.332916710326
+    },
+    {
+        "year": 2002,
+        "mileage": 27855,
+        "condition": "Poor",
+        "resale_value": 20026.655158776262
+    },
+    {
+        "year": 2013,
+        "mileage": 170037,
+        "condition": "Good",
+        "resale_value": 25434.802021605326
+    },
+    {
+        "year": 2015,
+        "mileage": 21508,
+        "condition": "Poor",
+        "resale_value": 27177.15892107014
+    },
+    {
+        "year": 2014,
+        "mileage": 45471,
+        "condition": "Good",
+        "resale_value": 15504.424441498226
+    },
+    {
+        "year": 2017,
+        "mileage": 106356,
+        "condition": "Excellent",
+        "resale_value": 17242.701954620967
+    },
+    {
+        "year": 2022,
+        "mileage": 49431,
+        "condition": "Excellent",
+        "resale_value": 9594.826230570521
+    },
+    {
+        "year": 2000,
+        "mileage": 147317,
+        "condition": "Excellent",
+        "resale_value": 33204.025830197315
+    },
+    {
+        "year": 2022,
+        "mileage": 78974,
+        "condition": "Poor",
+        "resale_value": 21954.796424337972
+    },
+    {
+        "year": 2012,
+        "mileage": 111756,
+        "condition": "Excellent",
+        "resale_value": 21944.239112171857
+    },
+    {
+        "year": 2014,
+        "mileage": 179588,
+        "condition": "Excellent",
+        "resale_value": 19854.13919115763
+    },
+    {
+        "year": 2016,
+        "mileage": 136862,
+        "condition": "Good",
+        "resale_value": 22040.698870094242
+    },
+    {
+        "year": 2014,
+        "mileage": 189742,
+        "condition": "Good",
+        "resale_value": 19042.025162172296
+    },
+    {
+        "year": 2019,
+        "mileage": 192295,
+        "condition": "Excellent",
+        "resale_value": 13286.739140844636
+    },
+    {
+        "year": 2002,
+        "mileage": 186014,
+        "condition": "Poor",
+        "resale_value": 10980.762661042068
+    },
+    {
+        "year": 2007,
+        "mileage": 126137,
+        "condition": "Fair",
+        "resale_value": 16872.599271227034
+    },
+    {
+        "year": 2022,
+        "mileage": 71014,
+        "condition": "Fair",
+        "resale_value": 21339.205871505063
+    },
+    {
+        "year": 2001,
+        "mileage": 131762,
+        "condition": "Poor",
+        "resale_value": 14158.844724751816
+    },
+    {
+        "year": 2003,
+        "mileage": 91628,
+        "condition": "Good",
+        "resale_value": 21928.382439639456
+    },
+    {
+        "year": 2003,
+        "mileage": 115583,
+        "condition": "Fair",
+        "resale_value": 25857.16661396034
+    },
+    {
+        "year": 2016,
+        "mileage": 30340,
+        "condition": "Good",
+        "resale_value": 25148.605585439054
+    },
+    {
+        "year": 2015,
+        "mileage": 188284,
+        "condition": "Fair",
+        "resale_value": 25183.14337158663
+    },
+    {
+        "year": 2013,
+        "mileage": 122156,
+        "condition": "Fair",
+        "resale_value": 15142.918163605369
+    },
+    {
+        "year": 2022,
+        "mileage": 55384,
+        "condition": "Fair",
+        "resale_value": 22105.173189813915
+    },
+    {
+        "year": 2011,
+        "mileage": 69877,
+        "condition": "Fair",
+        "resale_value": 12842.79335408549
+    },
+    {
+        "year": 2008,
+        "mileage": 170805,
+        "condition": "Excellent",
+        "resale_value": 19392.65842761988
+    },
+    {
+        "year": 2008,
+        "mileage": 46276,
+        "condition": "Fair",
+        "resale_value": 16453.403436754284
+    },
+    {
+        "year": 2000,
+        "mileage": 102014,
+        "condition": "Fair",
+        "resale_value": 24120.999639736965
+    },
+    {
+        "year": 2014,
+        "mileage": 45055,
+        "condition": "Excellent",
+        "resale_value": 13943.13005136724
+    },
+    {
+        "year": 2016,
+        "mileage": 148533,
+        "condition": "Poor",
+        "resale_value": 27630.28161193753
+    },
+    {
+        "year": 2016,
+        "mileage": 75771,
+        "condition": "Excellent",
+        "resale_value": 25151.946646395565
+    },
+    {
+        "year": 2021,
+        "mileage": 96751,
+        "condition": "Poor",
+        "resale_value": 10352.709121049897
+    },
+    {
+        "year": 2020,
+        "mileage": 49495,
+        "condition": "Good",
+        "resale_value": 17014.26205044124
+    },
+    {
+        "year": 2012,
+        "mileage": 70424,
+        "condition": "Good",
+        "resale_value": 18603.092160239205
+    },
+    {
+        "year": 2002,
+        "mileage": 24944,
+        "condition": "Poor",
+        "resale_value": 9999.866116850415
+    },
+    {
+        "year": 2013,
+        "mileage": 100674,
+        "condition": "Fair",
+        "resale_value": 14159.041877977452
+    },
+    {
+        "year": 2010,
+        "mileage": 164546,
+        "condition": "Fair",
+        "resale_value": 30897.01348454515
+    },
+    {
+        "year": 2000,
+        "mileage": 108894,
+        "condition": "Fair",
+        "resale_value": 12937.806221997751
+    },
+    {
+        "year": 2002,
+        "mileage": 16907,
+        "condition": "Good",
+        "resale_value": 20109.89713959645
+    },
+    {
+        "year": 2014,
+        "mileage": 34580,
+        "condition": "Poor",
+        "resale_value": 25905.651362639575
+    },
+    {
+        "year": 2016,
+        "mileage": 167640,
+        "condition": "Excellent",
+        "resale_value": 9877.595769439986
+    },
+    {
+        "year": 2015,
+        "mileage": 101617,
+        "condition": "Excellent",
+        "resale_value": 26983.03174966503
+    },
+    {
+        "year": 2021,
+        "mileage": 12448,
+        "condition": "Poor",
+        "resale_value": 17034.47663665178
+    },
+    {
+        "year": 2008,
+        "mileage": 85910,
+        "condition": "Poor",
+        "resale_value": 6212.062214885969
+    },
+    {
+        "year": 2019,
+        "mileage": 153955,
+        "condition": "Poor",
+        "resale_value": 21987.310172102098
+    },
+    {
+        "year": 2005,
+        "mileage": 105326,
+        "condition": "Fair",
+        "resale_value": 24216.74285162819
+    },
+    {
+        "year": 2005,
+        "mileage": 178242,
+        "condition": "Poor",
+        "resale_value": 20547.13314143108
+    },
+    {
+        "year": 2004,
+        "mileage": 81748,
+        "condition": "Good",
+        "resale_value": 25248.710437418806
+    },
+    {
+        "year": 2005,
+        "mileage": 19087,
+        "condition": "Excellent",
+        "resale_value": 24679.325743265694
+    },
+    {
+        "year": 2006,
+        "mileage": 144230,
+        "condition": "Excellent",
+        "resale_value": 21837.9907128117
+    },
+    {
+        "year": 2003,
+        "mileage": 67822,
+        "condition": "Poor",
+        "resale_value": 16328.434516538759
+    },
+    {
+        "year": 2002,
+        "mileage": 156564,
+        "condition": "Fair",
+        "resale_value": 19859.00422937168
+    },
+    {
+        "year": 2005,
+        "mileage": 35313,
+        "condition": "Excellent",
+        "resale_value": 15640.395756476933
+    },
+    {
+        "year": 2003,
+        "mileage": 46577,
+        "condition": "Fair",
+        "resale_value": 21013.186826779565
+    },
+    {
+        "year": 2019,
+        "mileage": 101046,
+        "condition": "Poor",
+        "resale_value": 17932.96081358483
+    },
+    {
+        "year": 2001,
+        "mileage": 66621,
+        "condition": "Good",
+        "resale_value": 21152.238024503367
+    },
+    {
+        "year": 2003,
+        "mileage": 48876,
+        "condition": "Good",
+        "resale_value": 16464.00179635492
+    },
+    {
+        "year": 2010,
+        "mileage": 80181,
+        "condition": "Good",
+        "resale_value": 24295.769922300533
+    },
+    {
+        "year": 2005,
+        "mileage": 75168,
+        "condition": "Good",
+        "resale_value": 22783.226174609714
+    },
+    {
+        "year": 2015,
+        "mileage": 92157,
+        "condition": "Excellent",
+        "resale_value": 19865.12605800641
+    },
+    {
+        "year": 2001,
+        "mileage": 91520,
+        "condition": "Fair",
+        "resale_value": 26668.075565112817
+    },
+    {
+        "year": 2015,
+        "mileage": 195317,
+        "condition": "Poor",
+        "resale_value": 12840.503004340055
+    },
+    {
+        "year": 2021,
+        "mileage": 189275,
+        "condition": "Good",
+        "resale_value": 22114.999142237746
+    },
+    {
+        "year": 2011,
+        "mileage": 96002,
+        "condition": "Excellent",
+        "resale_value": 20112.772132826198
+    },
+    {
+        "year": 2013,
+        "mileage": 16031,
+        "condition": "Fair",
+        "resale_value": 16648.17514797134
+    },
+    {
+        "year": 2002,
+        "mileage": 134042,
+        "condition": "Fair",
+        "resale_value": 23710.276727818607
+    },
+    {
+        "year": 2004,
+        "mileage": 45747,
+        "condition": "Poor",
+        "resale_value": 17792.524843147065
+    },
+    {
+        "year": 2004,
+        "mileage": 182050,
+        "condition": "Good",
+        "resale_value": 26465.794032250225
+    },
+    {
+        "year": 2016,
+        "mileage": 67135,
+        "condition": "Excellent",
+        "resale_value": 15810.165138669872
+    },
+    {
+        "year": 2011,
+        "mileage": 31003,
+        "condition": "Fair",
+        "resale_value": 19484.17843005265
+    },
+    {
+        "year": 2012,
+        "mileage": 91087,
+        "condition": "Good",
+        "resale_value": 20551.966790851402
+    },
+    {
+        "year": 2016,
+        "mileage": 66452,
+        "condition": "Excellent",
+        "resale_value": 25801.65373538845
+    },
+    {
+        "year": 2002,
+        "mileage": 108131,
+        "condition": "Good",
+        "resale_value": 20392.933057389408
+    },
+    {
+        "year": 2003,
+        "mileage": 19408,
+        "condition": "Good",
+        "resale_value": 15927.953369627618
+    },
+    {
+        "year": 2017,
+        "mileage": 120460,
+        "condition": "Excellent",
+        "resale_value": 25994.104211682905
+    },
+    {
+        "year": 2004,
+        "mileage": 74684,
+        "condition": "Excellent",
+        "resale_value": 23876.516365608826
+    },
+    {
+        "year": 2020,
+        "mileage": 166703,
+        "condition": "Good",
+        "resale_value": 19235.83834127763
+    },
+    {
+        "year": 2016,
+        "mileage": 29960,
+        "condition": "Excellent",
+        "resale_value": 27304.891073231356
+    },
+    {
+        "year": 2008,
+        "mileage": 68071,
+        "condition": "Excellent",
+        "resale_value": 13081.948224884116
+    },
+    {
+        "year": 2018,
+        "mileage": 140493,
+        "condition": "Poor",
+        "resale_value": 20404.810121097482
+    },
+    {
+        "year": 2006,
+        "mileage": 178078,
+        "condition": "Excellent",
+        "resale_value": 21657.46866685238
+    },
+    {
+        "year": 2004,
+        "mileage": 182599,
+        "condition": "Poor",
+        "resale_value": 14620.793547579011
+    },
+    {
+        "year": 2019,
+        "mileage": 79666,
+        "condition": "Fair",
+        "resale_value": 23912.387471270893
+    },
+    {
+        "year": 2010,
+        "mileage": 107821,
+        "condition": "Fair",
+        "resale_value": 15476.839463180815
+    },
+    {
+        "year": 2000,
+        "mileage": 52955,
+        "condition": "Fair",
+        "resale_value": 16963.217566310428
+    },
+    {
+        "year": 2013,
+        "mileage": 97591,
+        "condition": "Poor",
+        "resale_value": 25340.598249925435
+    },
+    {
+        "year": 2011,
+        "mileage": 186596,
+        "condition": "Fair",
+        "resale_value": 11733.757334405524
+    },
+    {
+        "year": 2012,
+        "mileage": 41311,
+        "condition": "Poor",
+        "resale_value": 20373.5702262914
+    },
+    {
+        "year": 2016,
+        "mileage": 136729,
+        "condition": "Poor",
+        "resale_value": 14862.511278912581
+    },
+    {
+        "year": 2018,
+        "mileage": 190256,
+        "condition": "Poor",
+        "resale_value": 12963.158903394862
+    },
+    {
+        "year": 2017,
+        "mileage": 96508,
+        "condition": "Good",
+        "resale_value": 16915.950709912508
+    },
+    {
+        "year": 2011,
+        "mileage": 21138,
+        "condition": "Poor",
+        "resale_value": 11903.891636470724
+    },
+    {
+        "year": 2002,
+        "mileage": 111549,
+        "condition": "Poor",
+        "resale_value": 14956.974911757965
+    },
+    {
+        "year": 2006,
+        "mileage": 71784,
+        "condition": "Poor",
+        "resale_value": 24347.12203512215
+    },
+    {
+        "year": 2009,
+        "mileage": 163116,
+        "condition": "Poor",
+        "resale_value": 20517.60135147525
+    },
+    {
+        "year": 2002,
+        "mileage": 165807,
+        "condition": "Good",
+        "resale_value": 25493.387360252655
+    },
+    {
+        "year": 2013,
+        "mileage": 107529,
+        "condition": "Good",
+        "resale_value": 12317.91717134527
+    },
+    {
+        "year": 2002,
+        "mileage": 188423,
+        "condition": "Excellent",
+        "resale_value": 18484.572210347404
+    },
+    {
+        "year": 2011,
+        "mileage": 160196,
+        "condition": "Excellent",
+        "resale_value": 19187.889603319243
+    },
+    {
+        "year": 2021,
+        "mileage": 24824,
+        "condition": "Excellent",
+        "resale_value": 19533.603741559717
+    },
+    {
+        "year": 2017,
+        "mileage": 82967,
+        "condition": "Poor",
+        "resale_value": 22934.389732640673
+    },
+    {
+        "year": 2002,
+        "mileage": 177922,
+        "condition": "Poor",
+        "resale_value": 22412.052758712372
+    },
+    {
+        "year": 2018,
+        "mileage": 131248,
+        "condition": "Fair",
+        "resale_value": 18303.19698487426
+    },
+    {
+        "year": 2008,
+        "mileage": 113221,
+        "condition": "Excellent",
+        "resale_value": 17446.059365748202
+    },
+    {
+        "year": 2019,
+        "mileage": 125349,
+        "condition": "Good",
+        "resale_value": 22947.239497194947
+    },
+    {
+        "year": 2003,
+        "mileage": 140928,
+        "condition": "Good",
+        "resale_value": 7403.671061183028
+    },
+    {
+        "year": 2005,
+        "mileage": 123272,
+        "condition": "Excellent",
+        "resale_value": 22054.02699035734
+    },
+    {
+        "year": 2008,
+        "mileage": 139451,
+        "condition": "Good",
+        "resale_value": 21749.961974922055
+    },
+    {
+        "year": 2015,
+        "mileage": 62239,
+        "condition": "Good",
+        "resale_value": 23910.978021915354
+    },
+    {
+        "year": 2019,
+        "mileage": 18207,
+        "condition": "Fair",
+        "resale_value": 18420.5609670794
+    },
+    {
+        "year": 2021,
+        "mileage": 167678,
+        "condition": "Poor",
+        "resale_value": 17561.09417999599
+    },
+    {
+        "year": 2003,
+        "mileage": 81789,
+        "condition": "Fair",
+        "resale_value": 15952.521760680302
+    },
+    {
+        "year": 2003,
+        "mileage": 97756,
+        "condition": "Excellent",
+        "resale_value": 17783.22197558281
+    },
+    {
+        "year": 2021,
+        "mileage": 154726,
+        "condition": "Fair",
+        "resale_value": 28286.227023518266
+    },
+    {
+        "year": 2020,
+        "mileage": 158798,
+        "condition": "Poor",
+        "resale_value": 28360.10987387858
+    },
+    {
+        "year": 2021,
+        "mileage": 38655,
+        "condition": "Good",
+        "resale_value": 11735.792194746875
+    },
+    {
+        "year": 2015,
+        "mileage": 153891,
+        "condition": "Excellent",
+        "resale_value": 17056.305157898358
+    },
+    {
+        "year": 2017,
+        "mileage": 138630,
+        "condition": "Fair",
+        "resale_value": 21386.516937552256
+    },
+    {
+        "year": 2016,
+        "mileage": 143087,
+        "condition": "Good",
+        "resale_value": 20730.524582356673
+    },
+    {
+        "year": 2009,
+        "mileage": 177004,
+        "condition": "Good",
+        "resale_value": 20353.966943489268
+    },
+    {
+        "year": 2002,
+        "mileage": 79240,
+        "condition": "Good",
+        "resale_value": 11279.129870682536
+    },
+    {
+        "year": 2010,
+        "mileage": 123992,
+        "condition": "Poor",
+        "resale_value": 14032.389177525258
+    },
+    {
+        "year": 2013,
+        "mileage": 190255,
+        "condition": "Excellent",
+        "resale_value": 17307.513296815334
+    },
+    {
+        "year": 2013,
+        "mileage": 90032,
+        "condition": "Excellent",
+        "resale_value": 23234.227020106966
+    },
+    {
+        "year": 2014,
+        "mileage": 96332,
+        "condition": "Poor",
+        "resale_value": 18262.320423281235
+    },
+    {
+        "year": 2015,
+        "mileage": 165279,
+        "condition": "Fair",
+        "resale_value": 24986.71367487272
+    },
+    {
+        "year": 2016,
+        "mileage": 42367,
+        "condition": "Good",
+        "resale_value": 17638.615627219522
+    },
+    {
+        "year": 2011,
+        "mileage": 166205,
+        "condition": "Poor",
+        "resale_value": 19136.86149373202
+    },
+    {
+        "year": 2009,
+        "mileage": 27901,
+        "condition": "Poor",
+        "resale_value": 15453.624327953621
+    },
+    {
+        "year": 2000,
+        "mileage": 127667,
+        "condition": "Fair",
+        "resale_value": 13234.058290032892
+    },
+    {
+        "year": 2008,
+        "mileage": 85148,
+        "condition": "Good",
+        "resale_value": 11511.765942815513
+    },
+    {
+        "year": 2011,
+        "mileage": 88773,
+        "condition": "Good",
+        "resale_value": 20940.10264782158
+    },
+    {
+        "year": 2004,
+        "mileage": 138747,
+        "condition": "Poor",
+        "resale_value": 12314.2456108973
+    },
+    {
+        "year": 2016,
+        "mileage": 164841,
+        "condition": "Excellent",
+        "resale_value": 7862.639145245565
+    },
+    {
+        "year": 2015,
+        "mileage": 89849,
+        "condition": "Poor",
+        "resale_value": 18946.182017451734
+    },
+    {
+        "year": 2007,
+        "mileage": 130176,
+        "condition": "Fair",
+        "resale_value": 27728.218833949883
+    },
+    {
+        "year": 2020,
+        "mileage": 58505,
+        "condition": "Poor",
+        "resale_value": 22008.49128574244
+    },
+    {
+        "year": 2001,
+        "mileage": 76519,
+        "condition": "Good",
+        "resale_value": 26189.024807180733
+    },
+    {
+        "year": 2017,
+        "mileage": 66636,
+        "condition": "Good",
+        "resale_value": 16641.650546500055
+    },
+    {
+        "year": 2015,
+        "mileage": 150361,
+        "condition": "Poor",
+        "resale_value": 16790.945222765225
+    },
+    {
+        "year": 2004,
+        "mileage": 107090,
+        "condition": "Fair",
+        "resale_value": 18204.98026173927
+    },
+    {
+        "year": 2011,
+        "mileage": 36214,
+        "condition": "Poor",
+        "resale_value": 17448.615081641034
+    },
+    {
+        "year": 2013,
+        "mileage": 27361,
+        "condition": "Excellent",
+        "resale_value": 26600.807523851385
+    },
+    {
+        "year": 2006,
+        "mileage": 96997,
+        "condition": "Good",
+        "resale_value": 28320.182265302592
+    },
+    {
+        "year": 2004,
+        "mileage": 20784,
+        "condition": "Good",
+        "resale_value": 17862.673761093167
+    },
+    {
+        "year": 2010,
+        "mileage": 43503,
+        "condition": "Poor",
+        "resale_value": 26286.064399548315
+    },
+    {
+        "year": 2004,
+        "mileage": 193619,
+        "condition": "Good",
+        "resale_value": 19889.933204312638
+    },
+    {
+        "year": 2011,
+        "mileage": 187162,
+        "condition": "Good",
+        "resale_value": 25721.638026684126
+    },
+    {
+        "year": 2007,
+        "mileage": 152670,
+        "condition": "Good",
+        "resale_value": 7994.577636533531
+    },
+    {
+        "year": 2008,
+        "mileage": 40545,
+        "condition": "Fair",
+        "resale_value": 19701.798042749564
+    },
+    {
+        "year": 2019,
+        "mileage": 144066,
+        "condition": "Excellent",
+        "resale_value": 19247.22169763829
+    },
+    {
+        "year": 2004,
+        "mileage": 68151,
+        "condition": "Good",
+        "resale_value": 19409.710163187403
+    },
+    {
+        "year": 2019,
+        "mileage": 152182,
+        "condition": "Good",
+        "resale_value": 13173.567263237413
+    },
+    {
+        "year": 2007,
+        "mileage": 79318,
+        "condition": "Good",
+        "resale_value": 14575.105577477978
+    },
+    {
+        "year": 2003,
+        "mileage": 158031,
+        "condition": "Poor",
+        "resale_value": 17365.356290548185
+    },
+    {
+        "year": 2001,
+        "mileage": 67421,
+        "condition": "Good",
+        "resale_value": 25177.42469128099
+    },
+    {
+        "year": 2021,
+        "mileage": 129498,
+        "condition": "Poor",
+        "resale_value": 16472.348667242288
+    },
+    {
+        "year": 2000,
+        "mileage": 108045,
+        "condition": "Good",
+        "resale_value": 24335.848684607274
+    },
+    {
+        "year": 2015,
+        "mileage": 153875,
+        "condition": "Poor",
+        "resale_value": 21489.221753868303
+    },
+    {
+        "year": 2016,
+        "mileage": 190357,
+        "condition": "Fair",
+        "resale_value": 15639.20911198562
+    },
+    {
+        "year": 2001,
+        "mileage": 185783,
+        "condition": "Poor",
+        "resale_value": 22141.98805086262
+    },
+    {
+        "year": 2012,
+        "mileage": 144799,
+        "condition": "Good",
+        "resale_value": 23221.321010597123
+    },
+    {
+        "year": 2010,
+        "mileage": 51697,
+        "condition": "Excellent",
+        "resale_value": 21982.403538659084
+    },
+    {
+        "year": 2022,
+        "mileage": 56798,
+        "condition": "Poor",
+        "resale_value": 21547.430473961263
+    },
+    {
+        "year": 2015,
+        "mileage": 116264,
+        "condition": "Poor",
+        "resale_value": 18641.224547958776
+    },
+    {
+        "year": 2005,
+        "mileage": 130076,
+        "condition": "Fair",
+        "resale_value": 19600.58977161644
+    },
+    {
+        "year": 2016,
+        "mileage": 126393,
+        "condition": "Poor",
+        "resale_value": 24948.39651091226
+    },
+    {
+        "year": 2011,
+        "mileage": 39855,
+        "condition": "Excellent",
+        "resale_value": 20916.473043020414
+    },
+    {
+        "year": 2008,
+        "mileage": 118773,
+        "condition": "Good",
+        "resale_value": 16038.193193418796
+    },
+    {
+        "year": 2001,
+        "mileage": 139598,
+        "condition": "Fair",
+        "resale_value": 13883.642886410846
+    },
+    {
+        "year": 2000,
+        "mileage": 137519,
+        "condition": "Fair",
+        "resale_value": 17132.340513150924
+    },
+    {
+        "year": 2019,
+        "mileage": 75765,
+        "condition": "Good",
+        "resale_value": 17714.953896291423
+    },
+    {
+        "year": 2001,
+        "mileage": 171825,
+        "condition": "Good",
+        "resale_value": 19106.08893649363
+    },
+    {
+        "year": 2021,
+        "mileage": 83514,
+        "condition": "Excellent",
+        "resale_value": 16105.880219966371
+    },
+    {
+        "year": 2010,
+        "mileage": 97788,
+        "condition": "Fair",
+        "resale_value": 25416.552999580417
+    },
+    {
+        "year": 2013,
+        "mileage": 39376,
+        "condition": "Poor",
+        "resale_value": 27776.43063277612
+    },
+    {
+        "year": 2022,
+        "mileage": 29072,
+        "condition": "Poor",
+        "resale_value": 28237.419489607746
+    },
+    {
+        "year": 2010,
+        "mileage": 59455,
+        "condition": "Excellent",
+        "resale_value": 19062.885719819667
+    },
+    {
+        "year": 2018,
+        "mileage": 179292,
+        "condition": "Good",
+        "resale_value": 19195.570673044305
+    },
+    {
+        "year": 2008,
+        "mileage": 113494,
+        "condition": "Excellent",
+        "resale_value": 21034.72631808259
+    },
+    {
+        "year": 2007,
+        "mileage": 38915,
+        "condition": "Fair",
+        "resale_value": 24106.700508579463
+    },
+    {
+        "year": 2001,
+        "mileage": 96687,
+        "condition": "Excellent",
+        "resale_value": 10721.874936487822
+    },
+    {
+        "year": 2019,
+        "mileage": 49513,
+        "condition": "Fair",
+        "resale_value": 10785.926952029726
+    },
+    {
+        "year": 2000,
+        "mileage": 61138,
+        "condition": "Good",
+        "resale_value": 19843.925891612053
+    },
+    {
+        "year": 2004,
+        "mileage": 90057,
+        "condition": "Excellent",
+        "resale_value": 24527.173861981762
+    },
+    {
+        "year": 2010,
+        "mileage": 77418,
+        "condition": "Good",
+        "resale_value": 24562.253301324366
+    },
+    {
+        "year": 2020,
+        "mileage": 68599,
+        "condition": "Good",
+        "resale_value": 14869.0410245861
+    },
+    {
+        "year": 2000,
+        "mileage": 10887,
+        "condition": "Excellent",
+        "resale_value": 18075.23905733982
+    },
+    {
+        "year": 2016,
+        "mileage": 48212,
+        "condition": "Good",
+        "resale_value": 13126.607909869992
+    },
+    {
+        "year": 2005,
+        "mileage": 123230,
+        "condition": "Poor",
+        "resale_value": 20240.564937872772
+    },
+    {
+        "year": 2015,
+        "mileage": 177736,
+        "condition": "Excellent",
+        "resale_value": 21114.496655675597
+    },
+    {
+        "year": 2001,
+        "mileage": 14545,
+        "condition": "Excellent",
+        "resale_value": 18582.42790621144
+    },
+    {
+        "year": 2015,
+        "mileage": 199755,
+        "condition": "Excellent",
+        "resale_value": 21910.107140171436
+    },
+    {
+        "year": 2005,
+        "mileage": 140330,
+        "condition": "Good",
+        "resale_value": 17131.235400619298
+    },
+    {
+        "year": 2011,
+        "mileage": 164747,
+        "condition": "Fair",
+        "resale_value": 11929.650571942708
+    },
+    {
+        "year": 2012,
+        "mileage": 156076,
+        "condition": "Fair",
+        "resale_value": 17954.256710534784
+    },
+    {
+        "year": 2005,
+        "mileage": 38421,
+        "condition": "Fair",
+        "resale_value": 12663.253195786336
+    },
+    {
+        "year": 2004,
+        "mileage": 112559,
+        "condition": "Poor",
+        "resale_value": 22141.858136224655
+    },
+    {
+        "year": 2002,
+        "mileage": 79562,
+        "condition": "Good",
+        "resale_value": 14909.939950940825
+    },
+    {
+        "year": 2005,
+        "mileage": 156866,
+        "condition": "Poor",
+        "resale_value": 16426.014586878257
+    },
+    {
+        "year": 2013,
+        "mileage": 45702,
+        "condition": "Excellent",
+        "resale_value": 22418.941418894257
+    },
+    {
+        "year": 2007,
+        "mileage": 80232,
+        "condition": "Good",
+        "resale_value": 9614.665010214572
+    },
+    {
+        "year": 2012,
+        "mileage": 140763,
+        "condition": "Fair",
+        "resale_value": 22465.87780343743
+    },
+    {
+        "year": 2013,
+        "mileage": 24844,
+        "condition": "Fair",
+        "resale_value": 21682.769764811514
+    },
+    {
+        "year": 2007,
+        "mileage": 84862,
+        "condition": "Fair",
+        "resale_value": 24991.264089277705
+    },
+    {
+        "year": 2016,
+        "mileage": 94983,
+        "condition": "Good",
+        "resale_value": 9727.456033739823
+    },
+    {
+        "year": 2008,
+        "mileage": 119447,
+        "condition": "Fair",
+        "resale_value": 15312.834476624514
+    },
+    {
+        "year": 2021,
+        "mileage": 121678,
+        "condition": "Fair",
+        "resale_value": 11954.10906336024
+    },
+    {
+        "year": 2011,
+        "mileage": 32497,
+        "condition": "Excellent",
+        "resale_value": 18730.98747624046
+    },
+    {
+        "year": 2003,
+        "mileage": 36376,
+        "condition": "Excellent",
+        "resale_value": 20416.762852956286
+    },
+    {
+        "year": 2016,
+        "mileage": 89712,
+        "condition": "Excellent",
+        "resale_value": 23925.647426019543
+    },
+    {
+        "year": 2006,
+        "mileage": 84712,
+        "condition": "Excellent",
+        "resale_value": 13399.943189683761
+    },
+    {
+        "year": 2016,
+        "mileage": 133288,
+        "condition": "Fair",
+        "resale_value": 13668.769359675796
+    },
+    {
+        "year": 2018,
+        "mileage": 156575,
+        "condition": "Fair",
+        "resale_value": 18317.983780948845
+    },
+    {
+        "year": 2021,
+        "mileage": 102744,
+        "condition": "Good",
+        "resale_value": 17778.822696236228
+    },
+    {
+        "year": 2013,
+        "mileage": 10426,
+        "condition": "Excellent",
+        "resale_value": 22693.355730485084
+    },
+    {
+        "year": 2010,
+        "mileage": 82941,
+        "condition": "Poor",
+        "resale_value": 16496.462728200237
+    },
+    {
+        "year": 2016,
+        "mileage": 36876,
+        "condition": "Fair",
+        "resale_value": 17680.772730354154
+    },
+    {
+        "year": 2016,
+        "mileage": 171039,
+        "condition": "Fair",
+        "resale_value": 20127.466952624884
+    },
+    {
+        "year": 2015,
+        "mileage": 160593,
+        "condition": "Fair",
+        "resale_value": 19052.238368692535
+    },
+    {
+        "year": 2020,
+        "mileage": 33511,
+        "condition": "Excellent",
+        "resale_value": 6559.0461978934345
+    },
+    {
+        "year": 2015,
+        "mileage": 109182,
+        "condition": "Poor",
+        "resale_value": 16868.31649398677
+    },
+    {
+        "year": 2000,
+        "mileage": 60905,
+        "condition": "Fair",
+        "resale_value": 22844.41207792353
+    },
+    {
+        "year": 2011,
+        "mileage": 27113,
+        "condition": "Fair",
+        "resale_value": 15930.602498394379
+    },
+    {
+        "year": 2000,
+        "mileage": 177782,
+        "condition": "Excellent",
+        "resale_value": 32787.99613216837
+    },
+    {
+        "year": 2003,
+        "mileage": 39667,
+        "condition": "Excellent",
+        "resale_value": 18626.75476319882
+    },
+    {
+        "year": 2007,
+        "mileage": 192239,
+        "condition": "Good",
+        "resale_value": 24670.220662231335
+    },
+    {
+        "year": 2005,
+        "mileage": 194752,
+        "condition": "Poor",
+        "resale_value": 18827.4034195971
+    },
+    {
+        "year": 2016,
+        "mileage": 164005,
+        "condition": "Poor",
+        "resale_value": 21726.674103575515
+    },
+    {
+        "year": 2007,
+        "mileage": 66167,
+        "condition": "Fair",
+        "resale_value": 20320.630754481925
+    },
+    {
+        "year": 2004,
+        "mileage": 102050,
+        "condition": "Fair",
+        "resale_value": 30991.801514408413
+    },
+    {
+        "year": 2015,
+        "mileage": 179433,
+        "condition": "Excellent",
+        "resale_value": 17968.304916563564
+    },
+    {
+        "year": 2003,
+        "mileage": 78988,
+        "condition": "Good",
+        "resale_value": 20150.199154540314
+    },
+    {
+        "year": 2012,
+        "mileage": 22602,
+        "condition": "Poor",
+        "resale_value": 16897.03735152389
+    },
+    {
+        "year": 2011,
+        "mileage": 164208,
+        "condition": "Excellent",
+        "resale_value": 21192.981448599287
+    },
+    {
+        "year": 2016,
+        "mileage": 128299,
+        "condition": "Good",
+        "resale_value": 20990.148182481076
+    },
+    {
+        "year": 2002,
+        "mileage": 22316,
+        "condition": "Poor",
+        "resale_value": 7131.549182731638
+    },
+    {
+        "year": 2014,
+        "mileage": 101541,
+        "condition": "Fair",
+        "resale_value": 11490.304568490934
+    },
+    {
+        "year": 2017,
+        "mileage": 64175,
+        "condition": "Poor",
+        "resale_value": 16251.250076653942
+    },
+    {
+        "year": 2005,
+        "mileage": 128247,
+        "condition": "Excellent",
+        "resale_value": 8846.06502505315
+    }
+]
