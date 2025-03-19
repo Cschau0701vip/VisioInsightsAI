@@ -1,14 +1,21 @@
 import streamlit as st
 import os
+import sys
 import base64
 from openai import OpenAI
+
+# Add the parent directory of 'scripts' to the Python path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from scripts.make_prediction import process_and_visualize_data
 import glob
 
 output_dir = 'output'
 
-token = os.environ["GITHUB_TOKEN"]
+token = os.environ.get("GITHUB_TOKEN")
+if not token:
+    raise ValueError("The environment variable 'GITHUB_TOKEN' is not set. Please set it before running the script.")
+
 endpoint = "https://models.inference.ai.azure.com"
 model_name = "gpt-4o-mini"
 # model_name = "Phi-4"
@@ -162,6 +169,16 @@ if st.button("Submit"):
                     "Residual": "residual",
                     "Correlation": "correlation"
                 }
+
+                # Check if the question_input contains any graph type keywords
+                for keyword, graph_type in graph_type_map.items():
+                    if keyword.lower() in question_input.lower():
+                        graph_input_type = keyword
+                        break
+                else:
+                    # Default to the selected graph type from the dropdown if no keyword is found
+                    graph_input_type = graph_input_type or "Pie (Default)"
+                    
                 selected_graph_type = graph_type_map.get(graph_input_type, "pie")
                 # Find the first matching file for the selected graph type
                 matching_files = glob.glob(os.path.join(output_dir, f"{selected_graph_type}*.png"))

@@ -7,6 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 import streamlit as st
+from datetime import datetime
 
 # Step 1: Simulate Data (Replace this with real data for better accuracy)
 np.random.seed(42)
@@ -81,7 +82,6 @@ def process_and_visualize_data(uploaded_file, output_dir):
   save_linear_plot(X_test, y_pred, output_dir)
   save_pie_chart(df, output_dir)
 
-
 def save_scatter_plot(y_test, y_pred, X_test, output_dir):
   print("save_scatter_plot")
   plt.figure(figsize=(12, 8))
@@ -92,8 +92,9 @@ def save_scatter_plot(y_test, y_pred, X_test, output_dir):
   plt.ylabel('Predicted Resale Value ($)')
   plt.legend(title='Year')
   plt.grid(alpha=0.5)
-  plt.savefig(os.path.join(output_dir, 'scatter_actual_vs_predicted_resale_values.png'))
-  plt.show()
+  timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+  plt.savefig(os.path.join(output_dir, 'scatter_actual_vs_predicted_resale_values_{timestamp}.png'))
+  # plt.show()
 
 def save_residual_plot(residuals, output_dir):
   print("save_residual_plot")
@@ -103,8 +104,9 @@ def save_residual_plot(residuals, output_dir):
   plt.xlabel('Residuals (Actual - Predicted)')
   plt.ylabel('Frequency')
   plt.grid(alpha=0.5)
-  plt.savefig(os.path.join(output_dir, 'residuals_distribution.png'))
-  plt.show()
+  timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+  plt.savefig(os.path.join(output_dir, 'residuals_distribution_{timestamp}.png'))
+  # plt.show()
 
 def save_correlation_heatmap(df, output_dir):
   print("save_correlation_heatmap")
@@ -112,8 +114,9 @@ def save_correlation_heatmap(df, output_dir):
   correlation_matrix = df.corr()
   sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', fmt='.2f')
   plt.title('Correlation Matrix of Features')
-  plt.savefig(os.path.join(output_dir, 'correlation_matrix.png'))
-  plt.show()
+  timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+  plt.savefig(os.path.join(output_dir, f'correlation_matrix_{timestamp}.png'))
+  # plt.show()
 
 def save_linear_plot(X_test, y_pred, output_dir):
   print("save_linear_plot")
@@ -124,8 +127,9 @@ def save_linear_plot(X_test, y_pred, output_dir):
   plt.ylabel('Predicted Resale Value ($)')
   plt.grid(alpha=0.5)
   plt.legend()
-  plt.savefig(os.path.join(output_dir, 'linear_mileage_vs_predicted_resale_value.png'))
-  plt.show()
+  timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+  plt.savefig(os.path.join(output_dir, f'linear_mileage_vs_predicted_resale_value_{timestamp}.png'))
+  # plt.show()
 
 def save_pie_chart(df, output_dir):
   print("save_pie_chart")
@@ -136,5 +140,6 @@ def save_pie_chart(df, output_dir):
   plt.figure(figsize=(8, 8))
   plt.pie(condition_counts, labels=condition_counts.index, autopct='%1.1f%%', startangle=140, colors=sns.color_palette('pastel'))
   plt.title('Distribution of Vehicle Conditions')
-  plt.savefig(os.path.join(output_dir, 'pie_condition_distribution.png'))
-  plt.show()
+  timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+  plt.savefig(os.path.join(output_dir, f'pie_condition_distribution_{timestamp}.png'))
+  # plt.show()
